@@ -147,9 +147,8 @@ else
    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
    <o:lock v:ext="edit" aspectratio="t"/>
   </v:shapetype><v:shape id="图片_x0020_1" o:spid="_x0000_s5121" type="#_x0000_t75"
-   style='position:absolute;direction:LTR;text-align:left;margin-left:11.25pt;
-   margin-top:5.25pt;width:109.5pt;height:162.75pt;z-index:1;visibility:visible'
-   o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   style='position:absolute;margin-left:11.25pt;margin-top:5.25pt;width:109.5pt;
+   height:162.75pt;z-index:1;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -556,8 +555,8 @@ AAAAAADgBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAKBFAAAAAA==
   <td rowspan=2 height=132 class=xl838 width=174 style='mso-ignore:colspan-rowspan;
   height:99.0pt;border-left:none;width:131pt'><!--[if gte vml 1]><v:shape id="图片_x0020_9"
    o:spid="_x0000_s5128" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:27.75pt;margin-top:15pt;width:75pt;
-   height:45pt;z-index:8;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:27.75pt;margin-top:15pt;width:75pt;height:45pt;z-index:8;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -718,8 +717,8 @@ L2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAD0VAAAAAA==
   <td rowspan=2 height=132 width=174 style='border-bottom:1.5pt solid white;
   height:99.0pt;width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_2" o:spid="_x0000_s5122" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:9pt;margin-top:2.25pt;width:113.25pt;
-   height:73.5pt;z-index:2;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:9pt;margin-top:2.25pt;width:113.25pt;height:73.5pt;z-index:2;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -876,8 +875,7 @@ bWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAAA+GwAAAAA=
   <td class=xl443 width=85 style='border-top:none;border-left:none;width:64pt'>2673
   </td>
   <td class=xl441 width=74 style='border-top:none;border-left:none;width:56pt'>行单重点推荐</td>
-  <td class=xl451 align=left width=271 style='border-top:none;border-left:none;
-  width:203pt'>I3主机，傲腾+HDD方案，享受大容量高速硬盘的优越性能</td>
+  <td class=xl451 width=271 style='border-top:none;border-left:none;width:203pt'>I3主机，傲腾+HDD方案，享受大容量高速硬盘的优越性能</td>
   <td colspan=3 class=xl376 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=66 style='mso-height-source:userset;height:49.5pt'>
@@ -893,7 +891,7 @@ bWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAAA+GwAAAAA=
   <td class=xl454 width=85 style='border-top:none;border-left:none;width:64pt'>2245
   </td>
   <td class=xl844 width=74 style='border-top:none;border-left:none;width:56pt'>行单重点推荐</td>
-  <td class=xl845 align=left style='border-top:none;border-left:none'>I3主机，适合办公、视频会议</td>
+  <td class=xl845 style='border-top:none;border-left:none'>I3主机，适合办公、视频会议</td>
   <td colspan=3 class=xl376 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=66 style='mso-height-source:userset;height:49.5pt'>
@@ -901,9 +899,9 @@ bWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAAA+GwAAAAA=
   href="sheet011.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
   font-family:微软雅黑, sans-serif;mso-font-charset:134'>散热器光磁</span></a></td>
   <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_3" o:spid="_x0000_s5123"
-   type="#_x0000_t75" style='position:absolute;direction:LTR;text-align:left;
-   margin-left:11.25pt;margin-top:6.75pt;width:106.5pt;height:53.25pt;
-   z-index:3;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   type="#_x0000_t75" style='position:absolute;margin-left:11.25pt;
+   margin-top:6.75pt;width:106.5pt;height:53.25pt;z-index:3;visibility:visible'
+   o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -1048,9 +1046,8 @@ ZWdQSwUGAAAAAAYABgCFAQAAxRwAAAAA
     <x:AutoPict/>
    </x:ClientData>
   </v:shape><v:shape id="图片_x0020_4" o:spid="_x0000_s5124" type="#_x0000_t75"
-   style='position:absolute;direction:LTR;text-align:left;margin-left:12.75pt;
-   margin-top:75.75pt;width:104.25pt;height:84.75pt;z-index:4;visibility:visible'
-   o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   style='position:absolute;margin-left:12.75pt;margin-top:75.75pt;width:104.25pt;
+   height:84.75pt;z-index:4;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -1221,7 +1218,7 @@ AADgBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAPkZAAAAAA==
   <td class=xl448 width=85 style='border-top:none;border-left:none;width:64pt'>1555
   </td>
   <td class=xl448 width=74 style='border-top:none;border-left:none;width:56pt'>行单重点推荐</td>
-  <td class=xl591 align=left style='border-top:none;border-left:none'>奔腾主机，完美替代G4560方案</td>
+  <td class=xl591 style='border-top:none;border-left:none'>奔腾主机，完美替代G4560方案</td>
   <td colspan=3 class=xl376 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=66 style='mso-height-source:userset;height:49.5pt'>
@@ -1237,7 +1234,7 @@ AADgBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAPkZAAAAAA==
   <td class=xl443 width=85 style='border-top:none;border-left:none;width:64pt'>1145
   </td>
   <td class=xl443 width=74 style='border-top:none;border-left:none;width:56pt'>现货</td>
-  <td class=xl819 align=left style='border-top:none;border-left:none'>赛扬主机，替代G3930方案</td>
+  <td class=xl819 style='border-top:none;border-left:none'>赛扬主机，替代G3930方案</td>
   <td colspan=3 class=xl376 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=66 style='mso-height-source:userset;height:49.5pt'>
@@ -1269,8 +1266,7 @@ AADgBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAPkZAAAAAA==
   <td class=xl443 width=85 style='border-top:none;border-left:none;width:64pt'>1095
   </td>
   <td class=xl443 width=74 style='border-top:none;border-left:none;width:56pt'>尾货清库</td>
-  <td class=xl851 align=left width=271 style='border-top:none;border-left:none;
-  width:203pt'>高性价比，适合点餐机、收银机、视频会议等入门级用途</td>
+  <td class=xl851 width=271 style='border-top:none;border-left:none;width:203pt'>高性价比，适合点餐机、收银机、视频会议等入门级用途</td>
   <td colspan=3 class=xl376 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=46 style='mso-height-source:userset;height:34.5pt'>
@@ -1304,8 +1300,8 @@ AADgBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAPkZAAAAAA==
   <td rowspan=2 height=126 width=174 style='border-bottom:1.5pt solid white;
   height:94.5pt;width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_5" o:spid="_x0000_s5125" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:23.25pt;margin-top:20.25pt;
-   width:84.75pt;height:70.5pt;z-index:5;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:23.25pt;margin-top:20.25pt;width:84.75pt;height:70.5pt;
+   z-index:5;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -1490,8 +1486,8 @@ AAAAAADkBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAFMdAAAAAA==
   <td height=63 class=xl468 style='height:47.25pt'>　</td>
   <td width=174 style='width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_7" o:spid="_x0000_s5129" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:23.25pt;margin-top:36pt;width:88.5pt;
-   height:101.25pt;z-index:9;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:23.25pt;margin-top:36pt;width:88.5pt;height:101.25pt;z-index:9;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -1722,8 +1718,8 @@ AGRycy9tZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAADAIwAAAAA=
   <td height=63 class=xl468 style='height:47.25pt'>　</td>
   <td width=174 style='width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_6" o:spid="_x0000_s5126" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:12.75pt;margin-top:44.25pt;
-   width:75.75pt;height:45pt;z-index:6;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:12.75pt;margin-top:44.25pt;width:75.75pt;height:45pt;z-index:6;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -1871,9 +1867,9 @@ AAYAhQEAAGEVAAAAAA==
  <tr height=63 style='mso-height-source:userset;height:47.25pt'>
   <td height=63 class=xl468 style='height:47.25pt'>　</td>
   <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_8" o:spid="_x0000_s5127"
-   type="#_x0000_t75" style='position:absolute;direction:LTR;text-align:left;
-   margin-left:12.75pt;margin-top:3pt;width:75pt;height:33pt;z-index:7;
-   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   type="#_x0000_t75" style='position:absolute;margin-left:12.75pt;
+   margin-top:3pt;width:75pt;height:33pt;z-index:7;visibility:visible'
+   o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -2093,8 +2089,8 @@ ZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAABdFAAAAAA=
   <td height=59 class=xl468 style='height:44.25pt'>　</td>
   <td width=174 style='width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_12" o:spid="_x0000_s5130" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:23.25pt;margin-top:7.5pt;width:85.5pt;
-   height:65.25pt;z-index:10;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:23.25pt;margin-top:7.5pt;width:85.5pt;height:65.25pt;z-index:10;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -2250,8 +2246,8 @@ L2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAAQVAAAAAA==
   <td rowspan=2 height=108 class=xl999 width=174 style='mso-ignore:colspan-rowspan;
   height:81.0pt;width:131pt'><!--[if gte vml 1]><v:shape id="图片_x0020_13"
    o:spid="_x0000_s5131" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:21.75pt;margin-top:22.5pt;width:95.25pt;
-   height:51.75pt;z-index:11;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:21.75pt;margin-top:22.5pt;width:95.25pt;height:51.75pt;
+   z-index:11;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
@@ -2393,8 +2389,8 @@ Z1BLBQYAAAAABgAGAIUBAAAVFAAAAAA=
   <td height=54 class=xl468 style='height:40.5pt'>　</td>
   <td width=174 style='width:131pt' align=left valign=top><!--[if gte vml 1]><v:shape
    id="图片_x0020_14" o:spid="_x0000_s5132" type="#_x0000_t75" style='position:absolute;
-   direction:LTR;text-align:left;margin-left:32.25pt;margin-top:9pt;width:72.75pt;
-   height:82.5pt;z-index:12;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
+   margin-left:32.25pt;margin-top:9pt;width:72.75pt;height:82.5pt;z-index:12;
+   visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
 VE4b7Cr+tnnK7jijKFHLwSFUfA/EV/XlRbnZeyCWaKSK9zH6eyFI9WAl5c4DpknrgpUxHUMnvFQf
 sgNxUxS3QjmMgDGLUwavywZauR0ie9yl68Xk3UPH2cOyOHVV3NgpYB6Is0yAgU4Y6f1glIzpdWJE
