@@ -1,0 +1,2762 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link id=Main-File rel=Main-File href="../index.htm">
+<link rel=File-List href=filelist.xml>
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-header-data:"&C&\0022宋体\,加粗\0022南通迅通电脑&\0022Times New Roman\,加粗\0022 85521400";
+	margin:.98in .75in .98in .75in;
+	mso-header-margin:.51in;
+	mso-footer-margin:.51in;
+	mso-page-orientation:landscape;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../index.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=red vlink="#954F72" class=xl365>
+
+<table border=0 cellpadding=0 cellspacing=0 width=2483 style='border-collapse:
+ collapse;table-layout:fixed;width:1865pt'>
+ <col class=xl316 width=186 style='mso-width-source:userset;mso-width-alt:5952;
+ width:140pt'>
+ <col class=xl426 width=175 style='mso-width-source:userset;mso-width-alt:5600;
+ width:131pt'>
+ <col class=xl427 width=109 style='mso-width-source:userset;mso-width-alt:3488;
+ width:82pt'>
+ <col class=xl428 width=68 style='mso-width-source:userset;mso-width-alt:2176;
+ width:51pt'>
+ <col class=xl429 width=65 span=2 style='mso-width-source:userset;mso-width-alt:
+ 2080;width:49pt'>
+ <col class=xl365 width=212 style='mso-width-source:userset;mso-width-alt:6784;
+ width:159pt'>
+ <col class=xl430 width=127 style='mso-width-source:userset;mso-width-alt:4064;
+ width:95pt'>
+ <col class=xl431 width=217 style='mso-width-source:userset;mso-width-alt:6944;
+ width:163pt'>
+ <col class=xl431 width=57 style='mso-width-source:userset;mso-width-alt:1824;
+ width:43pt'>
+ <col class=xl432 width=115 style='mso-width-source:userset;mso-width-alt:3680;
+ width:86pt'>
+ <col class=xl433 width=130 style='mso-width-source:userset;mso-width-alt:4160;
+ width:98pt'>
+ <col class=xl431 width=58 style='mso-width-source:userset;mso-width-alt:1856;
+ width:44pt'>
+ <col class=xl365 width=173 style='mso-width-source:userset;mso-width-alt:5536;
+ width:130pt'>
+ <col class=xl434 width=113 style='mso-width-source:userset;mso-width-alt:3616;
+ width:85pt'>
+ <col class=xl433 width=187 style='mso-width-source:userset;mso-width-alt:5984;
+ width:140pt'>
+ <col class=xl431 width=57 style='mso-width-source:userset;mso-width-alt:1824;
+ width:43pt'>
+ <col class=xl435 width=153 style='mso-width-source:userset;mso-width-alt:4896;
+ width:115pt'>
+ <col class=xl365 width=72 span=3 style='width:54pt'>
+ <tr class=xl356 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl860 width=186 style='height:28.5pt;width:140pt'><a
+  name="RANGE!A1">点击报价链接</a></td>
+  <td colspan=2 class=xl1530 width=284 style='border-right:1.5pt solid #003399;
+  width:213pt'>2019年3月10日报价</td>
+  <td colspan=4 class=xl1532 width=410 style='border-right:1.5pt solid #003399;
+  border-left:none;width:308pt'>宝隆门店：85521400<span style='mso-spacerun:yes'>   
+  </span>61616<span style='mso-spacerun:yes'>   </span>QQ：2853068027</td>
+  <td colspan=3 class=xl1546 width=401 style='border-left:none;width:301pt'>1.华擎主板到货，华硕品质，更优性价比</td>
+  <td colspan=4 class=xl1535 width=476 style='border-right:1.5pt solid #003399;
+  width:358pt'>　</td>
+  <td colspan=4 rowspan=3 class=xl1582 width=510 style='border-right:1.5pt solid #003399;
+  width:383pt'>特别提醒：本报价单蓝字、红字为现货，黑字为订货，最终价格、库存情况以电询为准！</td>
+  <td class=xl356 width=72 style='width:54pt'>　</td>
+  <td class=xl356 width=72 style='width:54pt'>　</td>
+  <td class=xl356 width=72 style='width:54pt'>　</td>
+ </tr>
+ <tr class=xl356 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td rowspan=2 height=76 class=xl1500 style='height:57.0pt'><a
+  href="sheet001.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>公司信息/促销</span></a></td>
+  <td colspan=2 class=xl1538 style='border-right:1.5pt solid #003399'>迅 通 电 脑</td>
+  <td colspan=4 class=xl1540 style='border-right:1.5pt solid #003399;
+  border-left:none'>京扬门店：85583811<span style='mso-spacerun:yes'>   
+  </span>61619<span style='mso-spacerun:yes'>   </span>QQ：2853068021</td>
+  <td colspan=3 class=xl1509 width=401 style='border-right:1.5pt solid #003399;
+  border-left:none;width:301pt'>2. I5-9400F中文盒热卖，性能胜8500，价格低于84散片</td>
+  <td colspan=4 class=xl1543 width=476 style='border-right:1.5pt solid #003399;
+  border-left:none;width:358pt'>　</td>
+  <td colspan=3 class=xl356 style='mso-ignore:colspan'>　</td>
+ </tr>
+ <tr class=xl357 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td colspan=2 height=38 class=xl1504 style='border-right:1.5pt solid #003399;
+  height:28.5pt'>三大件报价</td>
+  <td colspan=4 class=xl1506 width=410 style='border-right:1.5pt solid #003399;
+  border-left:none;width:308pt'>县区渠道：81107295<span style='mso-spacerun:yes'> 
+  </span>69888<span style='mso-spacerun:yes'>  </span>QQ：2853068029</td>
+  <td colspan=3 class=xl1512 width=401 style='border-right:1.5pt solid #003399;
+  border-left:none;width:301pt'>　</td>
+  <td colspan=4 class=xl1594 width=476 style='border-right:1.5pt solid #003399;
+  border-left:none;width:358pt'>　</td>
+  <td colspan=3 class=xl357 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl358 height=46 style='mso-height-source:userset;height:34.5pt'>
+  <td rowspan=2 height=75 class=xl1501 style='height:56.25pt'><a
+  href="sheet002.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>迅通DIY整机</span></a></td>
+  <td colspan=6 class=xl1517 style='border-right:1.5pt solid #003399'>CPU类<span
+  style='mso-spacerun:yes'>  </span>INTEL南通销售平台 <font class="font86">中文盒包3年保</font><font
+  class="font98"><span style='mso-spacerun:yes'>  </span></font><font
+  class="font84">售后电话8008201100 </font><font class="font86"><span
+  style='mso-spacerun:yes'> </span>散片1年保</font></td>
+  <td colspan=3 class=xl1522 style='border-right:1.5pt solid #003399;
+  border-left:none'>内存类 正品行货 终身质保 3年内换新</td>
+  <td colspan=4 class=xl1592 style='border-right:1.5pt solid #003399'>机械硬盘/移动硬盘类
+  正品行货 <font class="font86">三年质保</font></td>
+  <td colspan=4 class=xl1592 style='border-right:1.5pt solid #003399'>固态硬盘类
+  正品行货<font class="font114"> </font><font class="font86">三年质保</font></td>
+  <td colspan=3 class=xl358 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl360 height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=74 class=xl1515 style='border-bottom:1.5pt solid #003399;
+  height:55.5pt'>品类</td>
+  <td rowspan=2 class=xl1515 style='border-bottom:1.5pt solid #003399'>规格</td>
+  <td class=xl359 style='border-left:none'>中文盒</td>
+  <td colspan=2 class=xl1529 width=130 style='width:98pt'>散片</td>
+  <td rowspan=2 class=xl1527 width=212 style='border-bottom:1.5pt solid #003399;
+  width:159pt'>参数</td>
+  <td rowspan=2 class=xl1574 style='border-top:none'>品牌品类</td>
+  <td rowspan=2 class=xl1570 style='border-top:none'>规格</td>
+  <td rowspan=2 class=xl1572 style='border-top:none'>批发</td>
+  <td rowspan=2 class=xl1515 style='border-top:none'>品牌品类</td>
+  <td rowspan=2 class=xl1570 style='border-top:none'>规格</td>
+  <td rowspan=2 class=xl1580 style='border-top:none'>批发</td>
+  <td rowspan=2 class=xl1586 style='border-top:none'>参数</td>
+  <td rowspan=2 class=xl1588 width=113 style='border-top:none;width:85pt'>品牌品类</td>
+  <td rowspan=2 class=xl1570 style='border-top:none'>规格</td>
+  <td rowspan=2 class=xl1570 style='border-top:none'>批发</td>
+  <td rowspan=2 class=xl1590 width=153 style='border-top:none;width:115pt'>参数</td>
+  <td colspan=3 class=xl360 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl360 height=45 style='mso-height-source:userset;height:33.75pt'>
+  <td rowspan=2 height=77 class=xl1501 style='height:57.75pt'><a
+  href="#RANGE!A1"><span style='color:white;font-size:16.0pt;font-family:微软雅黑, sans-serif;
+  mso-font-charset:134'>三大件</span></a></td>
+  <td class=xl361 width=68 style='border-top:none;border-left:none;width:51pt'>K/X不含风扇</td>
+  <td class=xl678 width=65 style='border-top:none;width:49pt'><span
+  style='mso-spacerun:yes'> </span>现金价</td>
+  <td class=xl679 width=65 style='border-top:none;width:49pt'>7天账期</td>
+  <td colspan=3 class=xl360 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl1043 width=175 style='height:24.0pt;border-top:none;
+  border-left:none;width:131pt'>G4900最佳性价比</td>
+  <td class=xl826 width=109 style='border-top:none;border-left:none;width:82pt'>赛扬G4900</td>
+  <td class=xl827 width=68 style='border-top:none;width:51pt'>385 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>342 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>345 </td>
+  <td class=xl753 width=212 style='border-top:none;width:159pt'>2C2T/3.1G/2M/54W<span
+  style='mso-spacerun:yes'>  </span></td>
+  <td class=xl700 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl979 style='border-left:none'>骇客福瑞8G2666</td>
+  <td class=xl980 style='border-left:none'>315 </td>
+  <td class=xl921 width=115 style='width:86pt'>intel傲腾</td>
+  <td class=xl808>intel傲腾16G</td>
+  <td class=xl809>128 </td>
+  <td class=xl760 style='border-left:none'>M.2接口 NVME</td>
+  <td class=xl364 width=113 style='width:85pt'>　</td>
+  <td class=xl711 width=187 style='width:140pt'>intel545S-128G</td>
+  <td class=xl712 width=57 style='width:43pt'>245 </td>
+  <td rowspan=3 class=xl1576 width=153 style='width:115pt'>消费级，SATA3，读写500MB/s</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1502 style='height:48.0pt'><a
+  href="sheet006.htm#RANGE!A1"><span style='color:white;font-size:16.0pt'><font
+  class="font79">技嘉微星华擎主板</font></span></a></td>
+  <td class=xl1026 width=175 style='border-left:none;width:131pt'>G5400适用H310主板</td>
+  <td class=xl691 width=109 style='border-top:none;border-left:none;width:82pt'>奔腾G5400</td>
+  <td class=xl369 width=68 style='border-top:none;width:51pt'>455 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>415 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>420 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>2C4T/3.7G/4M/HD610/54W</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl629 style='border-left:none'>骇客福瑞16G2400</td>
+  <td class=xl981 style='border-top:none'>645 </td>
+  <td class=xl924 width=115 style='width:86pt'>装机技术支持</td>
+  <td class=xl922 style='border-top:none'>intel傲腾32G</td>
+  <td class=xl923 style='border-top:none'>380 </td>
+  <td class=xl761 style='border-left:none'>win7可支持！</td>
+  <td class=xl368 width=113 style='width:85pt'>　</td>
+  <td class=xl741 width=187 style='border-top:none;width:140pt'>intel545S-256G</td>
+  <td class=xl742 width=57 style='border-top:none;width:43pt'>下周</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl956 width=175 style='height:24.0pt;border-left:none;
+  width:131pt'>　</td>
+  <td class=xl692 width=109 style='border-top:none;border-left:none;width:82pt'>酷睿I3-8100</td>
+  <td class=xl812 width=68 style='border-top:none;width:51pt'>849 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>784 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>787 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>4C4T/3.6G/HD630/65W</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G3000</td>
+  <td class=xl958 style='border-top:none'>订</td>
+  <td class=xl633 style='border-top:none'>　</td>
+  <td class=xl670 style='border-top:none'>西数蓝盘1T</td>
+  <td class=xl671 style='border-top:none'>250 </td>
+  <td class=xl810 style='border-top:none;border-left:none'>WD10EZEX/64M/7200</td>
+  <td class=xl370 width=113 style='width:85pt'>INTEL</td>
+  <td class=xl741 width=187 style='border-top:none;width:140pt'>intel545S-512G</td>
+  <td class=xl742 width=57 style='border-top:none;width:43pt'>下周</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1500 style='height:48.0pt'><a
+  href="sheet004.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>优盘存储卡</span></a></td>
+  <td class=xl796 width=175 style='border-left:none;width:131pt'>intel8代
+  LGA1151</td>
+  <td class=xl692 width=109 style='border-top:none;border-left:none;width:82pt'>酷睿I3-8350K</td>
+  <td class=xl812 width=68 style='border-top:none;width:51pt'>899 </td>
+  <td colspan=2 class=xl630 width=130 style='border-left:none;width:98pt'>最优性价比8代U</td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>4C4T/4.0G/8M/91W/超频</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl629 style='border-top:none;border-left:none'>骇客掠夺者16G3000单</td>
+  <td class=xl981 style='border-top:none'>830 </td>
+  <td class=xl634>西数蓝盘</td>
+  <td class=xl635 style='border-top:none'>西数蓝盘2T</td>
+  <td class=xl636 style='border-top:none'>335 </td>
+  <td class=xl811 style='border-top:none;border-left:none'>WD20EZRZ/64M/5400</td>
+  <td class=xl370 width=113 style='width:85pt'>企业用户首选</td>
+  <td class=xl797 width=187 style='border-top:none;width:140pt'>intel760P-256G
+  M.2</td>
+  <td class=xl798 width=57 style='border-top:none;width:43pt'>缺</td>
+  <td rowspan=3 class=xl1548 width=153 style='border-bottom:1.5pt solid white;
+  width:115pt'>M.2 NVME，读3230MB/s，写1625MB/s</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl1044 width=175 style='height:24.0pt;border-left:none;
+  width:131pt'>适用300系列主板</td>
+  <td class=xl692 width=109 style='border-top:none;border-left:none;width:82pt'>酷睿I5-8400</td>
+  <td class=xl812 width=68 style='border-top:none;width:51pt'>1400 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1310 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1315 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>6C6T/2.8G-4.0G/9M/65W</td>
+  <td width=127 style='width:95pt' align=left valign=top><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="图片_x0020_20" o:spid="_x0000_s1027" type="#_x0000_t75"
+   style='position:absolute;direction:LTR;text-align:left;margin-left:4.5pt;
+   margin-top:7.5pt;width:87.75pt;height:32.25pt;z-index:3;visibility:visible'
+   o:gfxdata="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
+1BmLblmTrkileZAsXQ9JmDo55VgcikpNkmZLap3UGyUth4EgMEHRyFc08EDPcpOuNjZBa22S8+s4
+ddK4OE518h6z3NiRfMwkT+lKqxKiQj7faNKMQP9KqThEkMuELB4EmdgYEutMFBfjfMHL5UhAiV6C
+PL4BDVC48eSDy9doOLlUBrSUCPBF5VUIAMMF2giBF0x8p6Z7dvnOhZ4dj3dtGY/KgUmsvOWj6olN
+FxuCOncZc3/nuqN92+d7T3+8a3y9SV1Q1nhg1fjCwOjza8cvy9fAdCDpKcqIVvhqUlhYtzHfqO+a
+HRw7Ojj++OqtFxr/2rh637rtRwa3z3eNzC8fm+obmu7ZNNs3fGhAaLJv06Ge4fn+LUf7xxd6xw73
+ji8s3/H48q1b3Yo1xn2wde3xvtGjPcNznRvnV+yc6R+f6xpe6B2Z7tsy2T061Ts6t3xssmfj7ODo
+TM/o7IrTXlhz5lcrOgeMuaSy8cDKMxY6x+e7t3LrUN/I9MDoTO/IbPfoXM9WZpnqGoENhjraM/JK
+97bD/Tvu7tuyxSnU+nGcyRHAlRckpgJQUGYTUEESbPvd519y7icvWHpGDZXEQKBJfgv2i/5SN4H8
+xFmlkPM5fvnv2sc/rBt9p2Prndmm3lPKiI6goeggT6NQ/cZ8r9D8h9bNH9Rueq1t7FumfKsxN3as
+enVg659qV/+1cfh4+/CXyxuBG/2qMRaP9xhzYabsvuaB13u2vNOw8e2WkeN9Y1/0KnYb83LLug/q
+179ft+nVmjUPxQ33FNseLHbtjVvvy7TuzVLveCioe9pUvpzp/Hv9hvdr177dPrQ307jemGuru97q
+GP3ftWv/Ub/2RHnv8+m6J926RzMN9+fq78623pnruCvbcU+x645C653FNiq3lXXeUNWxS87h0xOd
+m9+rG/tn0/aj1SuZ9N5Mw0/yLffmO+/JddyX63og1/HTcNkTTtnLxfYPl636Z2Hlu+1brys2tbF7
+7EA+JY3lu8xcWJCDKFvyqMTCOJ/59Bd+/uwLhKFIJYH7P0nDdiAH8FMSYD9IkCBHjKuN+WnDqr82
+bXm/dviFphVfMvYT9WvmBk8/3Ds237P5SM/owvJtBwe2zw/s/F3b5veaNv+jeu07bSN7mgeXn9rR
+SOKuqo5XOza/3zT0Qd26P3WOPFjVfWu+dbZj6xs9p73VMfT73qGJ5uVfDSoGk89D0Mcbqwfe6dj2
+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
+">
+   <v:imagedata src="image041.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:3;margin-left:6px;margin-top:10px;width:117px;
+  height:43px'><img width=117 height=43 src=image042.gif v:shapes="图片_x0020_20"></span><![endif]><span
+  style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td height=32 class=xl701 width=127 style='height:24.0pt;border-left:none;
+    width:95pt'>　</td>
+   </tr>
+  </table>
+  </span></td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G3333*2</td>
+  <td class=xl958 style='border-top:none'>1090订</td>
+  <td class=xl373 style='border-top:none'>3年质保</td>
+  <td class=xl637>西数蓝盘3T</td>
+  <td class=xl638>无</td>
+  <td class=xl762 style='border-left:none'>WD30EZRZ/64M/5400</td>
+  <td class=xl374 width=113 style='width:85pt'>5年质保</td>
+  <td class=xl797 width=187 style='border-top:none;width:140pt'>intel760P-512G
+  M.2</td>
+  <td class=xl798 width=57 style='border-top:none;width:43pt'>700 </td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1503 style='height:48.0pt'><a
+  href="sheet007.htm#RANGE!A1"><span style='color:white;font-size:14.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>技嘉/影驰/丽台显卡</span></a></td>
+  <td class=xl1027>　</td>
+  <td class=xl691 width=109 style='border-top:none;width:82pt'>酷睿I5-8500</td>
+  <td class=xl369 width=68 style='border-top:none;width:51pt'>拿94F</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1470 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1475 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>6C6T/3G-4.1G/9M/65W</td>
+  <td class=xl702 style='border-left:none'>　</td>
+  <td class=xl399 style='border-top:none;border-left:none'>骇客掠夺者8G2933 RGB</td>
+  <td class=xl959 style='border-top:none'>510订</td>
+  <td class=xl639>　</td>
+  <td class=xl640>西数紫盘1T</td>
+  <td class=xl641 style='border-left:none'>265 </td>
+  <td class=xl763 style='border-left:none'>WD10EJRX/64M</td>
+  <td class=xl370 width=113 style='width:85pt'>　</td>
+  <td class=xl797 width=187 style='border-top:none;width:140pt'>intel760P-1T
+  M.2</td>
+  <td class=xl798 width=57 style='border-top:none;width:43pt'>1500订</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl957 style='height:24.0pt'>　</td>
+  <td class=xl692 width=109 style='border-top:none;width:82pt'>酷睿I7-8700</td>
+  <td class=xl812 width=68 style='border-top:none;width:51pt'>2190 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>2105 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>2112 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>6C12T/3.2G-4.6G/65W/超频</td>
+  <td class=xl703 style='border-left:none'>　</td>
+  <td class=xl399 style='border-top:none;border-left:none'>骇客掠夺者8G3200 RGB</td>
+  <td class=xl959 style='border-top:none'>520订</td>
+  <td class=xl639>　</td>
+  <td class=xl640 style='border-top:none'>西数紫盘2T</td>
+  <td class=xl641 style='border-top:none;border-left:none'>355 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD20EJRX/64M</td>
+  <td rowspan=2 class=xl1578 width=113 style='border-bottom:1.5pt solid #003399;
+  width:85pt'>新品QLC, NVME</td>
+  <td class=xl741 width=187 style='border-top:none;width:140pt'>intel660P-512G
+  M.2</td>
+  <td class=xl371 width=57 style='border-top:none;width:43pt'>缺</td>
+  <td class=xl778 align=left width=153 style='border-top:none;border-left:none;
+  width:115pt'>读1500MB/s,写1000MB/s</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1500 style='height:48.0pt'><a
+  href="sheet008.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>显示器/电视机</span></a></td>
+  <td class=xl1056 width=175 style='border-left:none;width:131pt'>F系列无核显U上市中</td>
+  <td class=xl692 width=109 style='border-top:none;width:82pt'>酷睿I7-8700K</td>
+  <td class=xl812 width=68 style='border-top:none;width:51pt'>2400 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>2305 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>2313 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>6C12T/3.7G-4.7G/12M/95W/超频</td>
+  <td class=xl618 style='border-left:none'>骇客神条掠夺者</td>
+  <td class=xl399 style='border-top:none;border-left:none'>骇客掠夺者8G3600 RGB</td>
+  <td class=xl959 style='border-top:none'>620订</td>
+  <td class=xl642>西数监控盘</td>
+  <td class=xl640 style='border-top:none'>西数紫盘3T</td>
+  <td class=xl641 style='border-top:none;border-left:none'>485 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD30EJRX/64M</td>
+  <td class=xl741 width=187 style='border-top:none;width:140pt'>intel660P-1T
+  M.2</td>
+  <td class=xl747 width=57 style='border-top:none;width:43pt'>1100订</td>
+  <td class=xl779 align=left width=153 style='border-left:none;width:115pt'>读1800MB/s,写1800MB/s</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl1037 width=175 style='height:24.0pt;border-left:none;
+  width:131pt'>晒单红包18元！Hot!</td>
+  <td class=xl1038 width=109 style='border-top:none;width:82pt'>酷睿I5-9400F</td>
+  <td class=xl1039 width=68 style='border-top:none;border-left:none;width:51pt'>1189
+  </td>
+  <td class=xl1063 width=65 style='border-left:none;width:49pt'>1105 </td>
+  <td class=xl1063 width=65 style='border-left:none;width:49pt'>1110 </td>
+  <td class=xl1040 width=212 style='border-top:none;border-left:none;
+  width:159pt'>6C6T/2.9-4.1G/无核显/9M/65W</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl800 style='border-top:none;border-left:none'>骇客掠夺者8G4000 RGB</td>
+  <td class=xl959 style='border-top:none'>720订</td>
+  <td class=xl643>紫盘 新款</td>
+  <td class=xl640 style='border-top:none'>西数紫盘4T PURX</td>
+  <td class=xl641 style='border-top:none;border-left:none'>585 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD40PURX/64M</td>
+  <td class=xl408 width=113 style='border-top:none;width:85pt'>　</td>
+  <td class=xl748 style='border-left:none'>忆捷S500-128G</td>
+  <td class=xl749 style='border-left:none'>125 </td>
+  <td class=xl780 width=153 style='border-top:none;width:115pt'>　</td>
+  <td colspan=2 class=xl365 style='mso-ignore:colspan'></td>
+  <td class=xl376></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1500 style='height:48.0pt'><a
+  href="sheet005.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>INTEL迷你电脑</span></a></td>
+  <td class=xl713 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl1052 width=109 style='border-top:none;width:82pt'>酷睿I5-9600K</td>
+  <td class=xl407 width=68 style='border-top:none;border-left:none;width:51pt'>1830订</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl758 width=212 style='border-top:none;border-left:none;width:159pt'>6C6T/3.7-4.6G/UHD630/9M/95W</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G2933*2 RGB</td>
+  <td class=xl958 style='border-top:none'>975订</td>
+  <td class=xl643>　</td>
+  <td class=xl640 style='border-top:none'>西数紫盘4T EJRX</td>
+  <td class=xl641 style='border-top:none;border-left:none'>585 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD40EJRX/64M</td>
+  <td class=xl386 width=113 style='width:85pt'>　</td>
+  <td class=xl378 style='border-top:none'>忆捷S500-256G</td>
+  <td class=xl379 style='border-top:none;border-left:none'>205 </td>
+  <td class=xl781 align=left width=153 style='border-left:none;width:115pt'>SATA,MLC,,性能稳定</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl713 width=175 style='height:24.0pt;border-left:none;
+  width:131pt'>9代 LGA1151</td>
+  <td class=xl1053 width=109 style='border-top:none;width:82pt'>酷睿I7-9700K</td>
+  <td class=xl1054 width=68 style='border-top:none;border-left:none;width:51pt'>2950
+  </td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl1055 width=212 style='border-top:none;border-left:none;
+  width:159pt'>8C8T/3.6-4.9G/UHD630/12M/95W</td>
+  <td class=xl701 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G3200 RGB</td>
+  <td class=xl958 style='border-top:none'>520订</td>
+  <td class=xl643>　</td>
+  <td class=xl640 style='border-top:none'>西数紫盘6T</td>
+  <td class=xl641 style='border-top:none;border-left:none'>990 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD60EJRX/64M</td>
+  <td class=xl386 width=113 style='width:85pt'>　</td>
+  <td class=xl381 style='border-top:none'>忆捷S500-512G</td>
+  <td class=xl382 style='border-top:none;border-left:none'>360 </td>
+  <td class=xl781 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1502 style='height:48.0pt'><a
+  href="sheet010.htm#RANGE!A1"><span style='color:white;font-size:16.0pt'><font
+  class="font79">电源机箱</font></span></a></td>
+  <td class=xl1057 width=175 style='border-left:none;width:131pt'>适用300系列主板</td>
+  <td class=xl1052 width=109 style='width:82pt'>酷睿I9-9900K</td>
+  <td class=xl407 width=68 style='border-left:none;width:51pt'>缺</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl758 width=212 style='border-left:none;width:159pt'>8C16T/3.6-5G/UHD630/16M/95W</td>
+  <td class=xl702 style='border-left:none'>　</td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G3600 RGB</td>
+  <td class=xl958 style='border-top:none'>620订</td>
+  <td class=xl644>　</td>
+  <td class=xl640 style='border-top:none'>西数紫盘8T</td>
+  <td class=xl641 style='border-top:none;border-left:none'>1350 </td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD80EJRX/64M</td>
+  <td class=xl377 width=113 style='width:85pt'>忆捷</td>
+  <td class=xl743 style='border-left:none'>忆捷E200-120G</td>
+  <td class=xl744 style='border-left:none'>110 </td>
+  <td class=xl782 align=left width=153 style='border-left:none;width:115pt'>SATA，TLC颗粒</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=64 class=xl1520 width=175 style='border-bottom:1.5pt solid white;
+  height:48.0pt;border-top:none;width:131pt'>中文盒包3年保</td>
+  <td class=xl1045 align=left>赛扬G3900</td>
+  <td class=xl1046>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>407 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>430 </td>
+  <td class=xl1047>　</td>
+  <td class=xl702 style='border-left:none'>　</td>
+  <td class=xl801 style='border-top:none;border-left:none'>骇客掠夺者8G4000 RGB</td>
+  <td class=xl958 style='border-top:none'>720订</td>
+  <td class=xl645>　</td>
+  <td class=xl626 style='border-top:none'>西数紫盘10T</td>
+  <td class=xl627 style='border-top:none;border-left:none'>2130订</td>
+  <td class=xl763 style='border-top:none;border-left:none'>WD100EJRX/128M</td>
+  <td class=xl386 width=113 style='width:85pt'>　</td>
+  <td class=xl745>忆捷E200-240G</td>
+  <td class=xl746 style='border-left:none'>185 </td>
+  <td class=xl782 align=left width=153 style='border-left:none;width:115pt'>高性价比</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td rowspan=2 height=61 class=xl1500 style='height:45.75pt'><a
+  href="sheet009.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>键鼠外设电竞椅</span></a></td>
+  <td class=xl1045 align=left>奔腾G4500</td>
+  <td class=xl1046>510 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl1047>2C2T/3.5G/3M/HD510</td>
+  <td width=127 style='width:95pt' align=left valign=top><!--[if gte vml 1]><v:shape
+   id="图片_x0020_19" o:spid="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+   direction:LTR;text-align:left;margin-left:3pt;margin-top:17.25pt;width:88.5pt;
+   height:25.5pt;z-index:2;visibility:visible' o:gfxdata="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
+bmdQSwUGAAAAAAYABgCEAQAAeCsAAAAA
+">
+   <v:imagedata src="image043.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:2;margin-left:4px;margin-top:23px;width:118px;
+  height:34px'><img width=118 height=34 src=image044.gif v:shapes="图片_x0020_19"></span><![endif]><span
+  style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td height=32 class=xl612 width=127 style='height:24.0pt;border-left:none;
+    width:95pt'>　</td>
+   </tr>
+  </table>
+  </span></td>
+  <td class=xl628 style='border-top:none;border-left:none'>金士顿4G2400笔</td>
+  <td class=xl960 style='border-top:none;border-left:none'>155 </td>
+  <td class=xl646>　</td>
+  <td class=xl647 style='border-top:none'>西数红盘2T</td>
+  <td class=xl648 style='border-top:none'>495 </td>
+  <td class=xl764 align=left style='border-top:none;border-left:none'>WD20EFRX/64M</td>
+  <td class=xl386 width=113 style='width:85pt'>　</td>
+  <td class=xl624>忆捷M3-256G固态移动硬盘</td>
+  <td class=xl625 style='border-left:none'>390 </td>
+  <td rowspan=2 class=xl1555 width=153 style='border-bottom:1.5pt solid #003399;
+  width:115pt'>铝合金外壳,TYPE-C接口,读500MB/s,写308MB/s</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl1051 width=175 style='height:21.75pt;border-top:none;
+  border-left:none;width:131pt'>　</td>
+  <td class=xl1048 align=left style='border-top:none;border-left:none'>奔腾G4560</td>
+  <td class=xl1049 style='border-top:none'>530 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>517 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>432 </td>
+  <td class=xl1050 style='border-top:none'>2C4T/3.5G/4M/HD610/35W</td>
+  <td class=xl613 width=127 style='border-left:none;width:95pt'>　</td>
+  <td class=xl628 style='border-top:none;border-left:none'>金士顿8G2400笔</td>
+  <td class=xl960 style='border-top:none;border-left:none'>290 </td>
+  <td class=xl649>西数NAS盘</td>
+  <td class=xl650 style='border-top:none'>西数红盘3T</td>
+  <td class=xl651 style='border-top:none'>680 </td>
+  <td class=xl764 align=left style='border-top:none;border-left:none'>WD30EFRX/64M</td>
+  <td class=xl750 width=113 style='width:85pt'>　</td>
+  <td class=xl680 style='border-top:none'>忆捷M3-512G固态移动硬盘</td>
+  <td class=xl681 style='border-top:none;border-left:none'>620 </td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1501 style='height:43.5pt'><a
+  href="sheet013.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>海盗船</span></a></td>
+  <td class=xl796 width=175 style='border-left:none;width:131pt'>7代<span
+  style='mso-spacerun:yes'>  </span>LGA1151<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl1048 align=left style='border-top:none;border-left:none'>酷睿I3-7100</td>
+  <td class=xl1049 style='border-top:none'>无</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>825 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>829 </td>
+  <td class=xl1050 style='border-top:none'>2C4T/3.9G/3M/HD630/51W<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl614 style='border-left:none'>金士顿</td>
+  <td class=xl800 style='border-top:none'>金士顿16G2400笔</td>
+  <td class=xl974 style='border-top:none;border-left:none'>缺</td>
+  <td class=xl649>红盘</td>
+  <td class=xl650 style='border-top:none'>西数红盘4T</td>
+  <td class=xl651 style='border-top:none'>840 </td>
+  <td class=xl764 align=left style='border-top:none;border-left:none'>WD40EFRX/64M</td>
+  <td class=xl604 width=113 style='border-top:none;width:85pt'>　</td>
+  <td class=xl390 style='border-top:none'>金士顿A400-120G</td>
+  <td class=xl391 style='border-top:none;border-left:none'>140 </td>
+  <td class=xl783 width=153 style='border-top:none;border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl1044 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>适用H110/B250/Z270</td>
+  <td class=xl1048 align=left style='border-top:none;border-left:none'>酷睿I5-7400</td>
+  <td class=xl1049 style='border-top:none'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1075 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1080 </td>
+  <td class=xl1050 style='border-top:none'>4C4T/3-3.5G/6M/HD630/65W</td>
+  <td class=xl614 style='border-left:none'>笔记本普条</td>
+  <td class=xl366 style='border-top:none'>金士顿4G1600笔</td>
+  <td class=xl962 style='border-top:none;border-left:none'>155 </td>
+  <td class=xl649>　</td>
+  <td class=xl647 style='border-top:none'>西数红盘6T</td>
+  <td class=xl648 style='border-top:none'>1320 </td>
+  <td class=xl764 align=left style='border-top:none;border-left:none'>WD60EFRX/64M</td>
+  <td class=xl392 width=113 style='width:85pt'>　</td>
+  <td class=xl393 style='border-top:none'>金士顿A400-240G</td>
+  <td class=xl394 style='border-top:none;border-left:none'>210 </td>
+  <td class=xl781 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1500 style='height:43.5pt'><a
+  href="sheet011.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>散热器光磁</span></a></td>
+  <td class=xl796 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl1048 align=left style='border-top:none;border-left:none'>酷睿I5-7500</td>
+  <td class=xl1049 style='border-top:none'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1115 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1120 </td>
+  <td class=xl1050 style='border-top:none'>4C4T/3.4-3.8G/6M/HD630/65W</td>
+  <td class=xl615 style='border-left:none'>　</td>
+  <td class=xl366 style='border-top:none'>金士顿8G1600笔</td>
+  <td class=xl962 style='border-top:none;border-left:none'>290 </td>
+  <td class=xl398>5年质保</td>
+  <td class=xl652 style='border-top:none'>西数红盘8T</td>
+  <td class=xl653 style='border-top:none'>1740 </td>
+  <td class=xl764 align=left style='border-top:none;border-left:none'>WD80EFZX/128M</td>
+  <td class=xl392 width=113 style='width:85pt'>　</td>
+  <td class=xl393 style='border-top:none'>金士顿A400-480G</td>
+  <td class=xl394 style='border-top:none;border-left:none'>410 </td>
+  <td class=xl784 align=left width=153 style='border-left:none;width:115pt'>A400
+  SATA</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl803 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>　</td>
+  <td class=xl1048 align=left style='border-top:none;border-left:none'>酷睿I7-7700</td>
+  <td class=xl1049 style='border-top:none'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1805 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>1810 </td>
+  <td class=xl1050 style='border-top:none'>4C8T/3.8-4.2G/6M/HD630/91W</td>
+  <td class=xl403 style='border-left:none'>终身质保</td>
+  <td class=xl628 style='border-top:none'>金士顿4G2400</td>
+  <td class=xl960 style='border-top:none;border-left:none'>153 </td>
+  <td class=xl654>　</td>
+  <td class=xl831>西数企业盘1T 新</td>
+  <td class=xl832>565 </td>
+  <td class=xl765 style='border-left:none'>HUS722T1TALA504/空气盘</td>
+  <td class=xl395 width=113 style='width:85pt'>金士顿</td>
+  <td class=xl366 style='border-top:none'>金士顿A1000-240G<span
+  style='mso-spacerun:yes'>  </span>M.2</td>
+  <td class=xl367 style='border-top:none;border-left:none'>310 </td>
+  <td class=xl785 style='border-top:none;border-left:none'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1500 style='height:43.5pt'><a
+  href="sheet012.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>DELL笔记本PC</span></a></td>
+  <td class=xl713 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I7-9800X</td>
+  <td class=xl817 width=68 style='border-top:none;width:51pt'>4600订</td>
+  <td colspan=2 class=xl1525 width=130 style='border-right:1.5pt solid white;
+  border-left:none;width:98pt'>　</td>
+  <td class=xl755 width=212 style='border-top:none;width:159pt'>10C20T/3.8-4.4G/17M</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl628 style='border-top:none'>金士顿8G2400</td>
+  <td class=xl960 style='border-top:none;border-left:none'>283 </td>
+  <td class=xl654>　</td>
+  <td class=xl655>西数企业盘2T 新</td>
+  <td class=xl656>715订</td>
+  <td class=xl765 style='border-left:none'>HUS722T2TALA604/空气盘</td>
+  <td class=xl370 width=113 style='width:85pt'>KINGSTON</td>
+  <td class=xl366 style='border-top:none;border-left:none'>金士顿A1000-480G<span
+  style='mso-spacerun:yes'>  </span>M.2</td>
+  <td class=xl367 style='border-top:none;border-left:none'>600 </td>
+  <td class=xl786 align=left style='border-left:none'>M.2,NVMe 1500M/S<span
+  style='mso-spacerun:yes'> </span></td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl414 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>适用X299</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I7-9820X</td>
+  <td class=xl817 width=68 style='border-top:none;width:51pt'>6600订</td>
+  <td colspan=2 class=xl1059 width=130 style='border-right:1.5pt solid white;
+  border-left:none;width:98pt'>　</td>
+  <td class=xl755 width=212 style='width:159pt'>12C24T/3.3-4.1G/17M</td>
+  <td class=xl617 width=127 style='border-left:none;width:95pt'>金士顿</td>
+  <td class=xl628 style='border-top:none;border-left:none'>金士顿16G2400</td>
+  <td class=xl960 style='border-top:none;border-left:none'>620 </td>
+  <td class=xl1058>西数企业盘</td>
+  <td class=xl658 style='border-top:none'>西数企业盘4T 新</td>
+  <td class=xl659 style='border-top:none'>865订</td>
+  <td class=xl763 style='border-top:none;border-left:none'>HUS726T4TALE6L4/空气盘</td>
+  <td rowspan=3 height=87 class=xl370 width=113 style='mso-ignore:colspan-rowspan;
+  height:65.25pt;width:85pt'><!--[if gte vml 1]><v:shape id="图片_x0020_1"
+   o:spid="_x0000_s1030" type="#_x0000_t75" style='position:absolute;
+   direction:LTR;text-align:left;margin-left:11.25pt;margin-top:12pt;width:66pt;
+   height:46.5pt;z-index:6;visibility:visible' o:gfxdata="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
+2P/gABBKRklGAAEBAQDcANwAAP/bAEMAAgEBAQEBAgEBAQICAgICBAMCAgICBQQEAwQGBQYGBgUG
+BgYHCQgGBwkHBgYICwgJCgoKCgoGCAsMCwoMCQoKCv/bAEMBAgICAgICBQMDBQoHBgcKCgoKCgoK
+CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCv/AABEIAIsAxwMBIgAC
+EQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAA
+AX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4
+OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaan
+qKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQAD
+AQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEG
+EkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpT
+VFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4
+ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APnnVPid
+8a7i+g0zwr45uLaRlmnurvUr2aVVAkAwsauuSxYkncMY75ptl41/abZWjT4y2gKMCyi0uju5/wCv
+k+v1qKNceJ5YyoBW2lG4jBCicf8A160EhuRKoLg4/jI5bPfj/GgCB/G/7T4h2D4sWRwRyttdjnjj
+i59P51KPiJ+1ICJo/itaEMoDMLS7G0celz6Z9asqDIuI4G871Yk4B6jpjI49elS2qu+I5lkCA5bf
+jA/EHoR/SgDH8f8A7V+ufCjw1Z6h4+8balJdzDEdrbXUrvK2DnYC2QM+vSqfwp/bRT4t3kmjad4o
+1ewvVUslpdysHZRySp3nOPTr3rm/GnwsvfFHiq18d22kT6jaaMZLLUI7ODzpbIs4PmhByRjPPTkc
+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
+">
+   <v:imagedata src="image045.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=15 height=16></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><img width=88 height=62 src=image046.gif v:shapes="图片_x0020_1"></td>
+    <td width=10></td>
+   </tr>
+   <tr>
+    <td height=9></td>
+   </tr>
+  </table>
+  </span><![endif]><!--[if !mso & vml]><span style='width:84.75pt;height:65.25pt'></span><![endif]--></td>
+  <td class=xl366 style='border-top:none;border-left:none'>金士顿A1000-960G<span
+  style='mso-spacerun:yes'>  </span>M.2</td>
+  <td class=xl367 style='border-top:none;border-left:none'>1350订</td>
+  <td class=xl787 style='border-left:none'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1501 style='height:43.5pt'><a
+  href="sheet015.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>群晖NAS</span></a></td>
+  <td class=xl414 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I9-9900X</td>
+  <td class=xl818 width=68 style='border-top:none;width:51pt'>7450订</td>
+  <td colspan=2 class=xl1059 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>订货价格电询</td>
+  <td class=xl755 width=212 style='width:159pt'>10C20T/3.5-4.4G/19.25M</td>
+  <td class=xl618 style='border-left:none'>台式机普条</td>
+  <td class=xl629 style='border-top:none;border-left:none'>金士顿4G1600</td>
+  <td class=xl963 style='border-top:none;border-left:none'>130 </td>
+  <td class=xl657>　</td>
+  <td class=xl658 style='border-top:none'>西数企业盘6T 新</td>
+  <td class=xl659 style='border-top:none'>1180订</td>
+  <td class=xl763 style='border-top:none;border-left:none'>HUS726T6TALE6L4/空气盘</td>
+  <td class=xl622 style='border-left:none'>骇客FURY SHFR200-240G</td>
+  <td class=xl623 style='border-left:none'>480订</td>
+  <td class=xl788 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl414 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>新旗舰 LGA2066</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I9-9920X</td>
+  <td class=xl818 width=68 style='border-top:none;width:51pt'>8950订</td>
+  <td class=xl1059 width=65 style='width:49pt'>　</td>
+  <td class=xl1060 width=65 style='width:49pt'>　</td>
+  <td class=xl755 width=212 style='width:159pt'>12C24T/3.5-4.4G/19.25M</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl629 style='border-top:none'>金士顿8G1600</td>
+  <td class=xl963 style='border-top:none;border-left:none'>285 </td>
+  <td class=xl657>　</td>
+  <td class=xl660 style='border-top:none'>西数金盘4T</td>
+  <td class=xl661 style='border-top:none'>980 </td>
+  <td class=xl766 style='border-top:none;border-left:none'>WD4002FYYZ/7200/128M</td>
+  <td class=xl622 style='border-left:none'>骇客FURY SHFR200-480G</td>
+  <td class=xl400 style='border-top:none;border-left:none'>725订</td>
+  <td class=xl788 align=left width=153 style='border-left:none;width:115pt'>RGB灯盘</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1500 style='height:43.5pt'><a
+  href="sheet016.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>打印机</span></a></td>
+  <td class=xl414 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I9-9960X</td>
+  <td class=xl818 width=68 style='border-top:none;width:51pt'>12650订</td>
+  <td colspan=2 class=xl1059 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl755 width=212 style='width:159pt'>16C32T/3.1-4.4G/22M</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl628 style='border-top:none'>金士顿2G1333拆机</td>
+  <td class=xl960 style='border-top:none;border-left:none'>45 </td>
+  <td class=xl682>　</td>
+  <td class=xl650>西数笔记本500G</td>
+  <td class=xl651>240 </td>
+  <td class=xl767 style='border-left:none'>500G/8M/<font class="font125">蓝盘/2.5&quot;</font></td>
+  <td class=xl370 width=113 style='width:85pt'>　</td>
+  <td class=xl622 style='border-left:none'>骇客FURY SHFR200-960G</td>
+  <td class=xl400 style='border-top:none;border-left:none'>1260订</td>
+  <td class=xl788 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl414 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>　</td>
+  <td class=xl816 width=109 style='border-top:none;width:82pt'>酷睿I9-9980XE</td>
+  <td class=xl817 width=68 style='border-top:none;width:51pt'>15280订</td>
+  <td class=xl1061 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl1062 width=65 style='width:49pt'>　</td>
+  <td class=xl755 width=212 style='width:159pt'>18C36T/3.0-4.4G/24.75M</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl628 style='border-top:none'>金士顿4G1333拆机</td>
+  <td class=xl960 style='border-top:none;border-left:none'>105 </td>
+  <td class=xl646>西数笔记本盘</td>
+  <td class=xl635 style='border-top:none'>西数笔记本1T</td>
+  <td class=xl636 style='border-top:none'>260 </td>
+  <td class=xl762 style='border-top:none;border-left:none'>1TB/
+  8M/蓝盘/厚/2.5&quot;</td>
+  <td class=xl370 width=113 style='width:85pt'>　</td>
+  <td class=xl396 style='border-top:none;border-left:none'>骇客Savage
+  SHSX100-480G</td>
+  <td class=xl397 style='border-top:none;border-left:none'>订</td>
+  <td class=xl778 align=left width=153 style='border-left:none;width:115pt'>骇客Savage
+  EXO移动固态</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1500 style='height:43.5pt'><a
+  href="sheet014.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>大华监控</span></a></td>
+  <td class=xl414 width=175 style='border-left:none;width:131pt'>　</td>
+  <td class=xl694 width=109 style='border-top:none;width:82pt'>酷睿I9-7980XE</td>
+  <td class=xl683 width=68 style='border-top:none;width:51pt'>13300 </td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>　</td>
+  <td class=xl755 width=212 style='width:159pt'>18C36T/2.6-4.2G/24.75M/165W</td>
+  <td class=xl619 style='border-left:none'>　</td>
+  <td class=xl740 style='border-top:none'>金士顿2G800拆机</td>
+  <td class=xl964 style='border-top:none;border-left:none'>28 </td>
+  <td class=xl634>　</td>
+  <td class=xl662>西数笔记本2T</td>
+  <td class=xl663>455订</td>
+  <td class=xl768 style='border-left:none'>2TB/ 8M/<font class="font125">蓝盘/厚/2.5&quot;</font></td>
+  <td class=xl370 width=113 style='width:85pt'>　</td>
+  <td class=xl704 style='border-top:none;border-left:none'>骇客Savage
+  SHSX100-960G</td>
+  <td class=xl705 style='border-top:none;border-left:none'>订</td>
+  <td class=xl789 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl804 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>　</td>
+  <td class=xl691 width=109 style='border-left:none;width:82pt'>奔腾G3250拆机</td>
+  <td class=xl369 width=68 style='width:51pt'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>280 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>285 </td>
+  <td class=xl754 width=212 style='width:159pt'>2核/3.6G/3M/54W</td>
+  <td class=xl965 style='border-top:none;border-left:none'>　</td>
+  <td class=xl362 style='border-top:none'>美光4G2400</td>
+  <td class=xl966 style='border-top:none;border-left:none'>155 </td>
+  <td class=xl698 style='border-top:none'>　</td>
+  <td class=xl808 style='border-top:none'>希捷酷鱼1T</td>
+  <td class=xl809 style='border-top:none'>273 </td>
+  <td class=xl769 style='border-top:none;border-left:none'>ST1000DM010/7200</td>
+  <td class=xl706 width=113 style='border-left:none;width:85pt'>　</td>
+  <td class=xl714 style='border-left:none'>西数2D绿盘120G</td>
+  <td class=xl715 style='border-left:none'>140 </td>
+  <td class=xl790 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td rowspan=2 height=58 class=xl1500 style='height:43.5pt'><a
+  href="sheet017.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>质保条例</span></a></td>
+  <td class=xl796 width=175 style='border-left:none;width:131pt'>LGA1150</td>
+  <td class=xl691 width=109 style='border-top:none;border-left:none;width:82pt'>酷睿I3-4130拆机</td>
+  <td class=xl369 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>455 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>460 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>2核/3.4G/3M/HD4400</td>
+  <td class=xl967 style='border-left:none'>　</td>
+  <td class=xl399 style='border-top:none'>美光8G2666</td>
+  <td class=xl968 style='border-top:none;border-left:none'>无</td>
+  <td class=xl699>希捷台盘酷鱼</td>
+  <td class=xl366 style='border-top:none;border-left:none'>希捷酷鱼2T</td>
+  <td class=xl367 style='border-top:none;border-left:none'>358 </td>
+  <td class=xl770 style='border-top:none;border-left:none'>ST2000DM006/7200</td>
+  <td class=xl377 width=113 style='border-left:none;width:85pt'>　</td>
+  <td class=xl605 style='border-left:none'>西数2D绿盘240G</td>
+  <td class=xl606 style='border-left:none'>205 </td>
+  <td class=xl791 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl803 width=175 style='height:21.75pt;border-left:none;
+  width:131pt'>适用H81/B85/Z97</td>
+  <td class=xl691 width=109 style='border-top:none;border-left:none;width:82pt'>酷睿I5-4570拆机</td>
+  <td class=xl369 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>595 </td>
+  <td class=xl630 width=65 style='border-left:none;width:49pt'>600 </td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>4核/3.2G/6M/HD4400</td>
+  <td rowspan=2 class=xl1568>镁(美)光英睿达</td>
+  <td class=xl399 style='border-top:none;border-left:none'>美光8G2666马甲</td>
+  <td class=xl968 style='border-top:none;border-left:none'>无</td>
+  <td class=xl373 style='border-top:none'>2年换新</td>
+  <td class=xl399 style='border-top:none'>希捷酷鹰2T</td>
+  <td class=xl400 style='border-top:none;border-left:none'>390订</td>
+  <td class=xl771 style='border-top:none;border-left:none'>ST2000VN0003/7200</td>
+  <td class=xl377 width=113 style='border-left:none;width:85pt'>西部数据</td>
+  <td class=xl381 style='border-top:none;border-left:none'>西数2D绿盘480G</td>
+  <td class=xl382 style='border-top:none;border-left:none'>360 </td>
+  <td class=xl792 align=left width=153 style='border-left:none;width:115pt'>SATA
+  绿盘2D</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl414 width=175 style='width:131pt'>　</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>赛扬G1610拆机</td>
+  <td class=xl401 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>48 </td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>50 </td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>　</td>
+  <td class=xl399 style='border-top:none;border-left:none'>美光8G2666灯条</td>
+  <td class=xl968 style='border-top:none;border-left:none'>无</td>
+  <td class=xl646>希捷监控盘</td>
+  <td class=xl637 style='border-top:none'>希捷酷鹰3T</td>
+  <td class=xl638 style='border-top:none'>500订</td>
+  <td class=xl771 style='border-top:none;border-left:none'>ST3000VN0073/7200</td>
+  <td width=113 style='width:85pt' align=left valign=top><!--[if gte vml 1]><v:shape
+   id="图片_x0020_11" o:spid="_x0000_s1028" type="#_x0000_t75" style='position:absolute;
+   direction:LTR;text-align:left;margin-left:6.75pt;margin-top:15pt;width:69.75pt;
+   height:41.25pt;z-index:4;visibility:visible' o:gfxdata="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
+anBlZ//Y/+AAEEpGSUYAAQEBANwA3AAA/+EAWkV4aWYAAElJKgAIAAAABQABAwUAAQAAAEoAAAAD
+AwEAAQAAAAAAAAAQUQEAAQAAAAEAAAARUQQAAQAAANUhAAASUQQAAQAAANUhAAAAAAAAoIYBAI+x
+AAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoK
+CgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr/wAARCAB9ANIDASIAAhEBAxEB/8QAHwAAAQUBAQEB
+AQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1Fh
+ByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZ
+WmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAEC
+AwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHB
+CSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0
+dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX
+2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD4XW6iYZXJ/Cl86MuI8nJ6ZFM2FTlO
+KsNp0Nw8iJqMCNFJs+8W6dwVBB596/p3FZnhsDFSrzUU+5+UYbCYjFycYRcmuw2lbBPyircWiu65
+/tC3JPpv/wDianj8LzuMPrFkjAZYOzf/ABNcU+LMhpx9+rH7zonlONgryi/wMyo3711+nfCuTUYh
+JH410ZMgHD3DAj81rXtv2fBdIHb4laGpPG3c55/KuOXGfDS2rx+8lZbiGr2/Ff5nm8eTnnpSsyop
+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
+">
+   <v:imagedata src="image047.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:4;margin-left:9px;margin-top:20px;width:93px;
+  height:55px'><img width=93 height=55 src=image048.gif v:shapes="图片_x0020_11"></span><![endif]><span
+  style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td height=29 class=xl377 width=113 style='height:21.75pt;border-left:none;
+    width:85pt'>　</td>
+   </tr>
+  </table>
+  </span></td>
+  <td class=xl366 style='border-top:none;border-left:none'>西数2D绿盘120G M.2</td>
+  <td class=xl367 style='border-top:none;border-left:none'>150 </td>
+  <td class=xl778 align=left width=153 style='border-top:none;border-left:none;
+  width:115pt'>M.2<span style='mso-spacerun:yes'>  </span>2280<font
+  class="font126"> 绿盘</font><font class="font36">2D</font></td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl414 width=175 style='width:131pt'>　</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>奔腾G2030拆机</td>
+  <td class=xl401 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>98 </td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>102 </td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>3.0G</td>
+  <td class=xl967 style='border-left:none'>全球NO.2芯片厂</td>
+  <td class=xl396 style='border-top:none'>美光16G2400</td>
+  <td class=xl969 style='border-top:none;border-left:none'>无</td>
+  <td class=xl646>酷鹰</td>
+  <td class=xl805 style='border-left:none'>希捷酷鹰4T</td>
+  <td class=xl806 style='border-left:none'>635订</td>
+  <td class=xl772 style='border-top:none;border-left:none'>ST4000VX007/5900</td>
+  <td class=xl375 width=113 style='border-left:none;width:85pt'>　</td>
+  <td class=xl620 style='border-top:none;border-left:none'>西数2D绿盘240G M.2</td>
+  <td class=xl621 style='border-top:none;border-left:none'>208 </td>
+  <td class=xl789 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl414 width=175 style='width:131pt'>LGA1155</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>酷睿I3-3220拆机</td>
+  <td class=xl401 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>235 </td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>238 </td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>2核/3.3G/3M</td>
+  <td class=xl970 width=127 style='border-left:none;width:95pt'>终身质保</td>
+  <td class=xl396 style='border-top:none'>美光16G2666</td>
+  <td class=xl969 style='border-top:none;border-left:none'>无</td>
+  <td class=xl664>　</td>
+  <td class=xl396 style='border-left:none'>希捷酷狼2T</td>
+  <td class=xl397 style='border-left:none'>530订</td>
+  <td class=xl807 style='border-left:none'>ST2000VN004/5900/64M</td>
+  <td class=xl375 width=113 style='border-left:none;width:85pt'>　</td>
+  <td class=xl381 style='border-left:none'>西数3D黑盘250G M.2</td>
+  <td class=xl382 style='border-left:none'>420 </td>
+  <td rowspan=2 class=xl1548 width=153 style='border-bottom:1.5pt solid #003399;
+  width:115pt'>M.2,NVME</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl414 width=175 style='width:131pt'>适用H61 可上XP</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>酷睿I3-3240拆机</td>
+  <td class=xl401 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>无</td>
+  <td class=xl631 width=65 style='border-left:none;width:49pt'>无</td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>2核/3.3G/4M</td>
+  <td class=xl967 style='border-left:none'>　</td>
+  <td class=xl381 style='border-top:none'>美光8G2133笔</td>
+  <td class=xl961 style='border-top:none;border-left:none'>335 </td>
+  <td class=xl665>希捷NAS盘</td>
+  <td class=xl396 style='border-top:none;border-left:none'>希捷酷狼3T</td>
+  <td class=xl397 style='border-top:none;border-left:none'>720订</td>
+  <td class=xl807 style='border-top:none;border-left:none'>ST3000VN007/5900/64M</td>
+  <td class=xl707 width=113 style='border-left:none;width:85pt'>　</td>
+  <td class=xl680 style='border-top:none;border-left:none'>西数3D黑盘500G M.2</td>
+  <td class=xl681 style='border-top:none;border-left:none'>710订</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl632 width=175 style='width:131pt'>　</td>
+  <td class=xl694 width=109 style='border-top:none;width:82pt'>酷睿I5-3470拆机</td>
+  <td class=xl683 width=68 style='border-top:none;width:51pt'>　</td>
+  <td class=xl688 width=65 style='border-left:none;width:49pt'>324 </td>
+  <td class=xl688 width=65 style='border-left:none;width:49pt'>328 </td>
+  <td class=xl755 width=212 style='border-top:none;width:159pt'>4核/3.2G/6M</td>
+  <td class=xl971 style='border-left:none'>　</td>
+  <td class=xl388 style='border-top:none'>美光4G1600笔</td>
+  <td class=xl972 style='border-top:none;border-left:none'>145 </td>
+  <td class=xl654>酷狼</td>
+  <td class=xl396 style='border-top:none;border-left:none'>希捷酷狼4T</td>
+  <td class=xl397 style='border-top:none;border-left:none'>850订</td>
+  <td class=xl807 style='border-top:none;border-left:none'>ST4000VN008/5900/64M</td>
+  <td class=xl404 width=113 style='border-top:none;border-left:none;width:85pt'>技嘉</td>
+  <td class=xl362 style='border-top:none;border-left:none'>技嘉S120-120G</td>
+  <td class=xl363 style='border-top:none;border-left:none'>138 </td>
+  <td class=xl405 width=153 style='border-top:none;width:115pt'>SATA</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl686 width=175 style='width:131pt'>适用A320/450/470</td>
+  <td class=xl695 width=109 style='width:82pt'>A8-9600散片</td>
+  <td class=xl689 width=68 style='border-left:none;width:51pt'>250 </td>
+  <td colspan=2 class=xl1566 width=130 style='border-right:1.5pt solid white;
+  border-left:none;width:98pt'>　</td>
+  <td class=xl757 width=212 style='border-left:none;width:159pt'>4C4T3.1-3.4G/R7集显/D4/一年保</td>
+  <td class=xl703 style='border-left:none'>　</td>
+  <td class=xl381 style='border-left:none'>海盗船复仇者炫彩CMW8G3000*2</td>
+  <td class=xl961 style='border-left:none'>950 </td>
+  <td class=xl666>　</td>
+  <td class=xl704 style='border-top:none;border-left:none'>希捷酷狼6T</td>
+  <td class=xl705 style='border-top:none;border-left:none'>1340订</td>
+  <td class=xl807 style='border-top:none;border-left:none'>ST6000VN0041/7200/128M</td>
+  <td class=xl402 width=113 style='border-left:none;width:85pt'>GIGABYTE</td>
+  <td class=xl388 style='border-top:none;border-left:none'>技嘉S240-240G</td>
+  <td class=xl389 style='border-top:none;border-left:none'>205 </td>
+  <td class=xl406 width=153 style='width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl690 width=175 style='width:131pt'>锐龙可享门店扫号奖励</td>
+  <td class=xl691 width=109 style='border-top:none;width:82pt'>速龙 200GE</td>
+  <td class=xl813 width=68 style='border-top:none;border-left:none;width:51pt'>在途</td>
+  <td colspan=2 class=xl1550 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>2C4T3.2G/35W/Vega3/WIN10</td>
+  <td class=xl618 style='border-left:none'>海盗船</td>
+  <td class=xl399 style='border-top:none;border-left:none'>海盗船复仇者炫彩CMW8G3200*2</td>
+  <td class=xl968 style='border-top:none;border-left:none'>无</td>
+  <td class=xl667>　</td>
+  <td class=xl399 style='border-left:none'>希捷企业盘2T</td>
+  <td class=xl400 style='border-left:none'>800订</td>
+  <td class=xl771 style='border-top:none;border-left:none'>ST2000NM0008/7200/128M</td>
+  <td class=xl408 width=113 style='border-top:none;border-left:none;width:85pt'>　</td>
+  <td class=xl409 style='border-top:none;border-left:none'>闪迪易存120G</td>
+  <td class=xl410 style='border-top:none;border-left:none'>139 </td>
+  <td class=xl793 width=153 style='border-top:none;border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl684 width=175 style='width:131pt'>AMD现货销售</td>
+  <td class=xl692 width=109 style='border-top:none;width:82pt'>R3 2200G</td>
+  <td class=xl814 width=68 style='border-top:none;border-left:none;width:51pt'>635
+  </td>
+  <td colspan=2 class=xl1550 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl754 width=212 style='border-top:none;width:159pt'>4C4T3.5-3.7G/65W/Vega8/WIN10</td>
+  <td rowspan=2 height=58 class=xl703 width=127 style='mso-ignore:colspan-rowspan;
+  height:43.5pt;border-left:none;width:95pt'><!--[if gte vml 1]><v:shape id="图片_x0020_17"
+   o:spid="_x0000_s1025" type="#_x0000_t75" style='position:absolute;
+   direction:LTR;text-align:left;margin-left:4.5pt;margin-top:15pt;width:87pt;
+   height:26.25pt;z-index:1;visibility:visible' o:gfxdata="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
+">
+   <v:imagedata src="image049.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=6 height=20></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><img width=116 height=35 src=image050.gif v:shapes="图片_x0020_17"></td>
+    <td width=5></td>
+   </tr>
+   <tr>
+    <td height=3></td>
+   </tr>
+  </table>
+  </span><![endif]><!--[if !mso & vml]><span style='width:95.25pt;height:43.5pt'></span><![endif]--></td>
+  <td class=xl366 style='border-top:none;border-left:none'>海盗船统治者CMD8G3000*2</td>
+  <td class=xl962 style='border-top:none;border-left:none'>无</td>
+  <td class=xl646>希捷企业盘</td>
+  <td class=xl399 style='border-top:none;border-left:none'>希捷企业盘4T</td>
+  <td class=xl400 style='border-top:none;border-left:none'>910订</td>
+  <td class=xl771 style='border-top:none;border-left:none'>ST4000NM0035/7200/128M</td>
+  <td class=xl411 width=113 style='width:85pt'>闪迪易存</td>
+  <td class=xl412 style='border-left:none'>闪迪易存240G</td>
+  <td class=xl413 style='border-left:none'>205 </td>
+  <td class=xl791 align=left width=153 style='border-left:none;width:115pt'>SATA</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl685 width=175 style='width:131pt'>锐龙AM4<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R3 1200</td>
+  <td class=xl815 width=68 style='border-top:none;border-left:none;width:51pt'>480
+  </td>
+  <td colspan=2 class=xl1562 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>4C4T3.1-3.4G/8M/65W</td>
+  <td class=xl396 style='border-top:none;border-left:none'>海盗船统治者CMD8G3200*2</td>
+  <td class=xl969 style='border-top:none;border-left:none'>无</td>
+  <td class=xl668>　</td>
+  <td class=xl399 style='border-top:none;border-left:none'>希捷企业盘6T</td>
+  <td class=xl400 style='border-top:none;border-left:none'>1220订</td>
+  <td class=xl771 style='border-top:none;border-left:none'>ST6000NM0115/7200/256M</td>
+  <td class=xl415 width=113 style='width:85pt'>SanDisk出品</td>
+  <td class=xl676 style='border-left:none'>闪迪易存480G</td>
+  <td class=xl677 style='border-left:none'>399订</td>
+  <td class=xl794 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl685 width=175 style='width:131pt'>适用A320/450/470</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R5 1500X</td>
+  <td class=xl815 width=68 style='border-top:none;border-left:none;width:51pt'>735
+  </td>
+  <td colspan=2 class=xl1562 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>4C8T3.5-3.7G/16M/65W</td>
+  <td class=xl973 style='border-left:none'>　</td>
+  <td class=xl977 style='border-top:none;border-left:none'>海盗船统治者CMD16G3000*2</td>
+  <td class=xl978 style='border-top:none;border-left:none'>2320订</td>
+  <td class=xl669>　</td>
+  <td class=xl670>西数新元素500G</td>
+  <td class=xl671>295 </td>
+  <td class=xl773 align=left width=173 style='border-left:none;width:130pt'><span
+  style='mso-spacerun:yes'>                                  </span></td>
+  <td class=xl416>　</td>
+  <td class=xl624>三星860EVO-250G</td>
+  <td class=xl625 style='border-left:none'>308 </td>
+  <td class=xl795 width=153 style='border-left:none;width:115pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td rowspan=3 height=87 class=xl685 width=175 style='mso-ignore:colspan-rowspan;
+  height:65.25pt;width:131pt'><!--[if gte vml 1]><v:shape id="图片_x0020_5"
+   o:spid="_x0000_s1031" type="#_x0000_t75" style='position:absolute;
+   direction:LTR;text-align:left;margin-left:18.75pt;margin-top:3pt;width:96.75pt;
+   height:54.75pt;z-index:7;visibility:visible' o:gfxdata="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
+AQEBAGAAYAAA/+EAOkV4aWYAAE1NACoAAAAIAANREAABAAAAAQEAAABREQAEAAAAAQAADsRREgAE
+AAAAAQAADsQAAAAA/9sAQwACAQECAQECAgICAgICAgMFAwMDAwMGBAQDBQcGBwcHBgcHCAkLCQgI
+CggHBwoNCgoLDAwMDAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMGDAgHCAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgASACAAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/L8HBpyRtIfSpls9
+o3N8qjuacbuOMZRTI3r0BoAbFYsw/vH+VX7CyF7bzQllL4yoHWqBuJrhPvbV9F4FWtHf+zr+OQYZ
+d2CfQGgCCO2H409bMseF3fhW9f6FHFqLbfmWT519wakstFlvZ44YI5JJpG2pGvJY/SpnOME5StZa
+voiqcZSkoU1d9NLs582Xl43YB7YrYOlf2vo3mf8ALSL5W+h6V7T8Nv2Ql1qKKfXr6S28zBFrbAF1
+H+0x6H6dK9z8EfsueBdHs/JXQY7oyLhmunaZ3+tfmmeeK+S5dPki3Ua/lV195+pZT4Q59jKaqVIx
+pLe0nq/kj4FNuysQy4YHB4oMJ+mTiv0VP7FXwx1ZGM3hSGMyDGYZnjbJ9PSvMvjD/wAEwIZbeS+8
+C6pJujXP9lalNuMmOoSY9D/vfhXmZX428PYqusPVcqTfWS0+9XDNfCHPcJSdany1EukXr8l/wT5M
+8KypFcS283+pmXAz0zWbrGnmwnk2ruCtjJ9O1dFr/gjVPBXiC403VLK403UbN9sttMm11PY+4Pr3
+qzq+kLqGmLcr8/GyQelfrlGtCrBVKbTi9mtvkfl1WnKlN06iaa3T3OHbO7HRqsabP5V1hvuyHBpH
+tQu5W++px9fSovKYDrt9/StCCXUrNrC8ZP4W5WoKsX+qNqCRKyKNnG7uagwAPoaAH3mXkWTJbeNw
+J9aSKIvJzUkZW5s2RcgxfN9fWnwRM3+J4oAdGnT/AGas28Jft96vcP2E/wDgn54s/b+8V69o3hDW
+fCulXPh21ju7l9cvWtYpFdtoCMFYsQevAwK+oYP+DcH42AhV8bfBxAxC4TXZefT/AJZc5q9EJnwz
+psE19oiyeV501rhSgb5iD0HFer/CTw9FoixzSLG19IPncL9wf3VPYV07/wDBOvx78K/22LX4E+Jt
+S8L+HPF2qKj2N3d3rDS9QEgJiKShc/vCrKAyj5hg4qt+0F8HPHf7K/xWu/hrqWjTt48W8j06ytLU
+Gb7c8uBFJbnA8xXyNp45JzjBr8642+vYxxwGE0jJpN9G+z9Nz998L8DlGWYGpnmZSTqqLlCL3UU7
+OS7ty08jV8Y/HrR/hNbrG4OpaptBW0if7mehdv4R+przfW/2xvF+tTyfZ2s9Pt3TYsEak7R67sg7
+vf8ASuo/am/4J2eNP2T/AI0+DfAvi/xF4Pu/Gnjp4nFjZ37zy6YszBVe7ZkAjyx98gEjjmvoB/8A
+g3F+NSEq3jb4PqF6k65J8vvjyq1ybw3yfBQU69NVaneWy9F2PjeJvFLOczrNUKjpUtbKO9vNngPh
+D9sXxl4T0q1uo5bPVbNXxc290hYkdwr5yvH1r6P+AP7XvhX46Xy6baNPpmveWX+w3GD5gUZYxsOH
+A9OCPSuI/aY/4I1/FP8AYk+A83jjxZrHgrUPDslzDaKdM1CWeWR5s7CoMaqVOPWp/wBnP/gij8YP
+i14B8I/FDwf4y+GuiW+sQxavpqajrDw3VqcnAkQRkA8EFcnrXlcY+EuS5th5VMNTVKsk+Vx0Tdtp
+LqjPhfxPzbLa8YV6jqUr6qWrS7pnU/tkfs42/wAdvh/Jd2MSp4q0WNprGVF+e7TvA3qCPu+jY9TX
+wb4HlEk8ljcDas+Rg9m6EfnX7gWv/BOb4hQ+H4by81zwD9rW3EtwbbVGaPzAuX2ZXkZBA6cV+dng
+z/gl58QP2w/2lviXa/DP/hH4H8LpBrbW9/ctb+eLneRHDtUjO9GX5iByOa+Y8G62b5ZOeQZxBxSv
+KnfstJJeWqZ9B4oUMszCnHOsrmpPSM7LvrFvz0Z8aeJdEaw1KSNl2sjFTx1HY/lWVJB5Yy3FepeN
+/Bd9qPxKt/C11azaT4qN+NHvbK8QwtY3O/YUkGMghjz7YIyMVo/td/sVeIf2IfjnffD/AMZ3mm6h
+r2nW0NzLJp0zSWxWVA64ZlU5wRkYr97cdT8ZPF7O3iur1VZH8vuwpbqyEc77G/d5wARzWzMEiB2h
+VHoOKy7q7APHX0FS9AKVvN5Fwsn4fnWnb6czvtZvoB3FZI+foN36CrY1KSG0iVJBhcqxFVED7g/4
+I5/sR/DT9rXXvivdfFC98WWOg/D3w2PEBfQdRls5gibjKWEfzSAIpIXua+nv2K/2V/2B/wBsv4yW
+/hT4e+NvjfP4ntYf7XtrXU9Xv7MXa28iOwTzMCQg7SUHJBr88P2Lv289e/Ym0v4lWuh6JpOtJ8Tv
+Dsnhy+e9ldGtIZFZfMj2g5YBzweOK87+BXxi179nj4seGfG3he8ax1/wrfR39lN2LKcFGH8SOpZW
+Ho1UI+nP+CxX7XWmftR/8FCdW1zw9p+vaHY+EbSDw3D/AGlG1rfCezkffMUPzRnew2g8kLnoRX6F
+fszfts+DfjP+wtJ+1L8SPBcfib4ufs02c+iwagcKNTmnEUUM7dtx81QWPKFpSv3hX5F/tuftYS/t
+o/tAal8R7vwrovhHWNajjGpW+lyu8F9Og2/aTuGRIy4B9dortPgf+3Vrfw+/Yr+I3wRt9J0y60X4
+lXMV3eX8zst1aPG0LAIB8pH7lev9418pWq/Vcy55u0Jb+uy/4c/obB5HLiDgCnHB0+avh5SS11te
+8l809urSOD+LXxb8R/Hz4p69448WX0uoeJvEt415ezrnIYn5Y48cqqDCqq9AOOtfb37JX/BPLwx+
+zj8J7X9oD9rTWNU8PeC4MTeHvBU97P8A2h4llxvi82LfuKtgERdxy+AcV8C+EfihdfDX4h6LrVvZ
+wz3Hh7UIL9ILgZSZonDAN/snHvX3340/4OXvG3xGkt28QfBP4Ua8bMsbc6jG10YM9dvmKducDOOt
+fV3TV46n89VLwm4TTTW6e54H/wAFBf8Agqh4t/b48e2zTq3h3wJoLbPD/he1ci3sYx8qyTdpZ9uO
+fur0XivqWw/Y5/ZL+HP7AnwV+LHxq174t6VefFDT1cDw/ql5Jb/aAjSOFii4jXaOO2a+af2xf+Ct
+15+2L8ErjwVcfCD4Y+Co7i7hu/7T0K0WG7QxknYG2D5Wzzz2r0r9lz/guN4h+FP7Nng/4V3Xwv8A
+h54q0vwDpyWWm3GtIbh5dufnKspVWOcfLQ7W9DOMru0T6Y+AOufsXyfB5bXwX4u+MV3pti80NsdQ
+a9aQyfewxfkrlh1qP9hX4max8PY/2nPEnh+7js9a8PfD+zvdPnEe7y5UluXQuD94cDI9OKj8L/8A
+BV/UNS8E263Xwd+Fuk3d9AWlitLBVWFnB6fJ1CkH618J+Ff+CjviT4G658atC0HQNO1ix+Jmmr4d
+nmuZWVrGGLzF8yPaMMT5hOD0wK/G+H4YbHcUzxWCcXGCmnyxad21u22n11SSP2biLD4zLuFoUMfG
+UZVHBxvJS0SbdkknG11dNs+wte+F2g/8Fsfhz4R+Pnw4sbDSfj54DvNPX4g+FomWN9ZhjZD9oiHd
+sZaNv4gChOQK8D/4OH7l/wDh6b4uijXc50nTSvP/AE7rXzT+xr+0H42/Yg+N+j/EDwdq32TVNLQW
+9zbSEtBqtrxvtp1/ijbGfVSARgjNb37cX7X2rftxftD6h8R9e0nTdG1TUbaC2e3snZ4UWJAqkFsN
+k9TX7JY/G4yukeK3GlyOf9JkC/7EfJ/PtVaVI7b/AFSKvueW/E1dvbtSvyso3d/es+SKSVv72705
+oKMc806Ib9y9FYZz9KbRkjGPWswBZWX/AIF2qWO4Ytxz6cVEdqnu3PelLkjj5V7gd6abAuDhMs23
+sVX5mpbHUjYz71+Vc8DNU4lGc7sY/SpGvFSIqq5964cywEcTCz0fRn6J4d8eVuHMXaXvUJv34/qv
+P8zqJhD4lt0fzFjuo/lVz0I9DVUeEtVkZRFamb3RwQf1rH066YPmIlWUbivqK39I8b/ZMLI+1gfW
+vlI4rMsAvZU48y7NN/l0P3jN+D+DeJ/+FSjiFCT3cZRj96ez87amNercadceTcRSwyKfuuuCfpXp
+nwM+HQk1eHWtSKrDatugtm/5aN2Lj0H93qa4fVvGy634ht7g7lW1Xap2bmlPXP4dqmufiPeiCSOG
+RrZZGLM+/Lk+ufWvRzBZnj8IsPRSg5L3n27pfI/D8BhuHcmzOpiK9X29OnJ8iX2rdX0tc90+Jvx6
+TSLKTT7OdG1K4Uo7I3y2yHvn++c8CvG471Yo9qbVUHJA45rm9KuPtckjpI+5cuc8lz6/XvVqztW1
+aFpWuI4YlOHGfmB78V1cOcO4bKMP7KgryespPr5HzvGHGGL4gxixFb3YR0jFbRXV+r6l6+1tEVvm
+BPTA71TRbrUpF2KVjPJZuKVryx05f3ETXDgffkqpe63NdcM2Fx0XgV9FK99T5OKSRJOLe3jYSM0j
+7sgDpmoJNSZo9q7U288d6pSXG7pu/Cmjcz54pFFeiiiswCiiigBCuTS9BRRR5ASW05t7hWX+Hr9K
+bOqi4bjcucjNFFHW5SlJKyYiyMh4P1pFVnPTP1PAooqo9iSxZMbSXzFZlf27VMt5tds/xHJooqrA
+NeUSyH370RQNOcYY/jRRQBOLBU/1hG0dgaiu7yOPaI13NRRUyA//2VBLAQItABQABgAIAAAAIQD0
+vmNdDgEAABoCAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAG
+AAgAAAAhAAjDGKTUAAAAkwEAAAsAAAAAAAAAAAAAAAAAPwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAG
+AAgAAAAhAOMkQ409AgAAPQUAABIAAAAAAAAAAAAAAAAAPAIAAGRycy9waWN0dXJleG1sLnhtbFBL
+AQItABQABgAIAAAAIQBYYLMbugAAACIBAAAdAAAAAAAAAAAAAAAAAKkEAABkcnMvX3JlbHMvcGlj
+dHVyZXhtbC54bWwucmVsc1BLAQItABQABgAIAAAAIQCytNVoFwEAAIsBAAAPAAAAAAAAAAAAAAAA
+AJ4FAABkcnMvZG93bnJldi54bWxQSwECLQAKAAAAAAAAACEAN6vmhQIQAAACEAAAFQAAAAAAAAAA
+AAAAAADiBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAABcXAAAAAA==
+">
+   <v:imagedata src="image051.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td width=25 height=4></td>
+   </tr>
+   <tr>
+    <td></td>
+    <td><img width=129 height=73 src=image052.gif v:shapes="图片_x0020_5"></td>
+    <td width=21></td>
+   </tr>
+   <tr>
+    <td height=10></td>
+   </tr>
+  </table>
+  </span><![endif]><!--[if !mso & vml]><span style='width:131.25pt;height:65.25pt'></span><![endif]--></td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R5 1600X</td>
+  <td class=xl815 width=68 style='border-top:none;border-left:none;width:51pt'>1015订</td>
+  <td colspan=2 class=xl1562 width=130 style='border-right:1.5pt solid white;
+  width:98pt'>　</td>
+  <td class=xl756 width=212 style='border-top:none;width:159pt'>6C12T3.6-4G/16M/65W</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl799 style='border-top:none'>芝奇幻光戟8G3000*2 16D</td>
+  <td class=xl974 style='border-left:none'>　</td>
+  <td class=xl646>西数移动硬盘</td>
+  <td class=xl650 style='border-top:none'>西数新元素1T</td>
+  <td class=xl651 style='border-top:none'>320 </td>
+  <td class=xl774 align=left width=173 style='border-top:none;border-left:none;
+  width:130pt'>1：1送硬盘包</td>
+  <td class=xl416>　</td>
+  <td class=xl381 style='border-top:none'>三星860EVO-500G</td>
+  <td class=xl382 style='border-top:none;border-left:none'>495 </td>
+  <td class=xl795 align=left width=153 style='border-left:none;width:115pt'>860EVO
+  SATA</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R5 2400G</td>
+  <td class=xl407 width=68 style='border-top:none;border-left:none;width:51pt'>995
+  </td>
+  <td colspan=2 rowspan=4 class=xl1556 width=130 style='border-right:1.5pt solid white;
+  border-bottom:1.5pt solid white;width:98pt'>锐龙门店注册商家有店面扫号奖励，详询AMD专员</td>
+  <td class=xl758 width=212 style='border-top:none;border-left:none;width:159pt'>4C8T3.6-3.9G/65W/Vega11/WIN10</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl800 style='border-top:none'>芝奇幻光戟8G3200*2 16D</td>
+  <td class=xl974 style='border-top:none;border-left:none'>　</td>
+  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_2" o:spid="_x0000_s1029"
+   type="#_x0000_t75" style='position:absolute;direction:LTR;text-align:left;
+   margin-left:13.5pt;margin-top:4.5pt;width:68.25pt;height:63.75pt;z-index:5;
+   visibility:visible' o:gfxdata="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
+SkZJRgABAQEAYABgAAD/4QBaRXhpZgAASUkqAAgAAAAFAAEDBQABAAAASgAAAAMDAQABAAAAAAAA
+ABBRAQABAAAAAQAAABFRBAABAAAAxA4AABJRBAABAAAAxA4AAAAAAACghgEAj7EAAP/bAEMAAgEB
+AQEBAgEBAQICAgICBAMCAgICBQQEAwQGBQYGBgUGBgYHCQgGBwkHBgYICwgJCgoKCgoGCAsMCwoM
+CQoKCv/bAEMBAgICAgICBQMDBQoHBgcKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoK
+CgoKCgoKCgoKCgoKCgoKCv/AABEIAFMAWgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAA
+AQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgj
+QrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpz
+dHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX
+2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/
+xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEK
+FiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SF
+hoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo
+6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APlz9oD9mn40fCj9qxvhvo3w81XUL7xR4gMeh3qWbJb6
+gzuGdUl5j2DzAxLEeWuPM2FWA/Vv9mv9n/U/CvhDSbrx8YtV8WXGl2sd6qsbrZKsQDIr4zIcqctx
+n8Aa9B/Zc+EnwK+IPw60b4yeEw8eh6tpsV5Hf6tcmSZwwyUcknMituVhz8ynHGKu/tjfE7xX8Kf2
+Y/Gk37IPg+a78aR6A66RqEcA+0eYSqvJBHgl5EjLyoOAXRRtb7p+Lw+GhQh7ST6ev3I/pfjDxAz/
+AIxxNLI5QUOWSi7qyUm0m3213XkVPGn7D/7KXxv8RWGnftNeBvC2u65p0H2rT/D87J/aEUII+aTy
+mE3lbnXKAmMlhk9q83/ax/4KFfspf8Ey9D074Z/A79m3QNXfX4rlpNL8Gajp+l2Vu8OxD9r+zxSv
+5pWQYLRkkK3zZBA/EzTv2g/iZ8KfHkOuXOsXlpqMN3M91ezs4uHll3ecLgsd0m8M4bd94Mc5ya+3
+P2s/gL4k1/8AYJ0X9pDxZobaXrMN5pl5LphjKta2NyhiYMDyhMs0B2HkADODkV9x4b08qzbiihhs
+dTTpylZ2bV21Zaqz3PifGfhnMuD+FlWw2P8AazivhtZRas3ZXaas9GY03/Bbr9tXTPCEXgb4bHwt
+4ZtbeS5Npfw6GL6+SKaRpPKLXZkgIXccHyAe/wBOq/4Jw/8ABSn4u237W8niT9q740eLPFeiar4b
+v7U6fd3RmggukEdxC0FoCsETEwNHlFXAlOeK+ExNGn7xn/Edq1fAfj3TfBvjrSfEkl3iOz1GKS48
+o5Ii3Yk6Z/gLDrX9qYjgLhfD5RVw+Ew0IuUWrpLmu1pq7vc/hmhxVnuJzOlVxFaUlGSuru1r66Ky
+P3K8W/tieNPilYXGjeDYY/Dmj3MBX7PZnfdTRkYIeXAxkdkC9cZNfk/8KvgO+pf8FENQ+CN34Jvb
+x734jRSXGi21m3mTaTJeA+aqAcQ+Q5Jk+6oJJIFfpT+y3+zH8WPFul2OoeLoG8Oab9nRvtN2nmSz
+LxzFGnHI6bmU4OQDivaf2h/2n/2Xf+CcPwVuvGfizV1t2VfKt0mfztQ1WbllhjUYMjEgkRoFjHLn
+ywGYfw9xHk9OGaOmnpB+vyP7e8OPFDFcGYKq8PSUvawa1dmm01zXWt0m7G58Vdc+JHgzSrrWfF/j
+Gw8MWlxA0elaDoyJJeS5JzcTXDjECrnnZnjAG08j5N8B/wDBDf4L/tA+IvEPxX+JOqa5pkPibVpN
+V0x47gfbkklfzJpMy7keF3ZmXzEZgGwOAGb8/fH3/Ban9pPx7+17ov7RGpadbyeGNB1PzIfhzql4
+Psep2hI3R3WAQ85UAxSYK28gDxqT5pm/bz9nb9rDwX+1J8NNF+NnwU1w3GgatEzW7yqBdpMBiaCa
+PJEE0LZjZOSSNwIj2tJ42Jp0aXv1rtdFu22efkfFWc5TiKkssqeznUVpSVtFdPr59T1L9nX4EeBP
+2bfhDoHwQ+HMUyaToGni3tJbyQNPOxZnkmkYBQZJJHd2KgDLHAUYFdn5Tf3B+n+FeEfH/wDaI8Se
+CNMstF8OXCWd9fJtnvHi3SIABuYDhUOeATyeoArwGXxHPeSNd3eo6lLLKxeWRr+bLseST9TVVsVT
+gopR6bdvI+fnh62YV6mJxE7ylJtvdtt3bfq3c9G+D3w58NfCT4Y6F8K/CN5NLpnhzTYrG2lvJFaQ
+7VGZJNgCh2OWIAAy3AxgV87/ALS//BSHwh8NfiTrHwT0Dw9M11os6W174gkYSQGQwo7qij5gyMxj
+YtwCp57D0r43+GdC+G/hDW/jbaambUaLp895dTWEz2l26xqWCCSMjzSzBVAY/MzD5TnFflRq2uav
+4h1m88ReIro3N/qN5JeX10U+aaeRi7v+LMSB6nNfL4rH1eX2Ti4NejuvJo/p3wY8O8Hxlj8TmeYT
+dWK2d2m5t3u77tLo+59P7P2Yfi78RLL4weO/h94Y8S65ZyK9tf6raqzZBBXcv+qlZScjerEY4xXq
+H7SfxY8JfF79nLxn8M9Qvfs9xrXhu5gtJJH+U3Pl7oTkf9NlQ/hX57+LvEF54esY5NE1CW3uriQE
+TW8pVgi+46gt+q1Xj+Nvj2801tDvL1pmlXZFND8r5PAyPun8gT616HDmcPKswp4ht+41JfJ3PrvE
+nwBzTOsBUngKiqaNKMnZ2taybun26Hglq32qSOS7uHUN98n5ttWJIoC7RxOWj7M4xkV9X/An/gmd
+beNYZvGvxb8cajZ6LaobnUk8P6dloY/+urhgAeednSvsTwX/AME6v2T/AAD8Nl+Ivw8+AWkeK2gv
+ora4n8WanLezjzSircGKfFsI8sMnywQMnFf1Pnv0pvDDh+hGnUrOdRrZaWstbtv8kf5t0/A3jKeL
+kq0Y04qXLdtPW+lrd/U818Uf8F7fh/8As4/sYeBdH0tLjVviC/gm0tby0SQBzdQKbbk87FIhDGVg
+QN+AGbC1+VHxv/bY+Pf7V/xduPid+0F40a/muGZNOh3MtrpEZx+6hQEkQnCiTqzELISzKAfvn/gp
+5+xZo37QumyN4G+HNj4Y+JHgmA29lo9rbQQJe2wzJ9iYxAI4PmCSGTGFaTBO2Q4/Li2ex06yvNG1
+vQbqPVIbrYDL+7aAqSJY5YzyGBBGMZznONtfhM+K8m4xxM8dl1lCTbSTu0nqtfTbQ+//ALCzDIKU
+MPidWktbWTt2/wCHPS9HtvKfzPLWFt/zRonmOp9M8j0II4IIIJBFfY3/AASd/b58cfsZ/Hez8N3G
+l61rXgzxrqttaa94b023a5ulumIigvbG3QFpLlchDEgzPF8mDJHCV+U/2QfhL8Yv2n/iPpv7Pnwb
+8D33iDxDfAmwtLVtqRQJ/rJLiU/Lbwxg585yFUHyyeYwP6AP+CZv/BJL4Q/sF6GvxA8WTWfij4lX
+NqV1HxU0JEOmqwxJa6asnzRJ2aZgJZhnPlRnyhz1JU1ozSnzvWJ754v+Ami/Eu5S88TxxsbVzJ9q
+eTbHbjo0w525xzubgZJxxWCvin9ijSlGmSWem3LWw8o3P9kTzeaV43+YI8PnGdw4Oc968n/bH/bw
++F/gTxjpvwu8YeOl0uz1a8+x6VpltbyM2pXXON+wHCbgEBYhd3HXp5Ve/F7RWvJm/wCEfAzK3G9O
+OfrXj4jG4eM7WTfU+rweT5nh8PGrVpytPWLto0u3c4XxLqH7ZX7Y/wCzjb+DdE0bRpfPhtX1m3tF
+NnHfGIhysTSOQAZkRsMwGFxu618pfEf4RfE74S6v/Y3xQ8A6toVwXKRx6nZmNJG5HyS8xyZx1RiA
+K/XrU/iN8F/gPpcPh++1/RdIkW1MtrpSXMUdxJGMjcsWdxXjGQCM9+tec6v+1L8Pvibcr4Qn8Pf2
+lp2oHY63tqkkMg/2kbIIz6g14OJwkJyvOfvH9CcAeKGb8GYL2VPBJ4WUm7q8ZXdk3fVPS2lj8cvG
+GowXfiYK8fmQWuxNqNwwHXH16/jW38EPD8Pi74r2f+iKtrb3H2mROioqn5fyOD+Br9MPix/wSW/Z
+e+Mdq/iDwlpV14M1Gf5hNoM2bdmP962kygHtGUr5p+FP7OXhT9nfx/qNpD4+s/FW3UhbxataWJFt
+GAo2hkfIJLll43RnbjccqD89nWIWWYR3klKV1FNpXdr2XU/oCj4vZDxJw3XWXqUa6jblaas20r8y
+utG3a7vpse4+E9UsvBvgC41/SYtQ0+2m08W3iKw1FXjs7qLp5iu4Cp1yMkjJxwOW+UIP+C8Pw1+G
+Xjy8+DPhLwZd3Ph6S5jhfVbi5VWkjVsNiIAgoVXap3DIIyO1fbnieXxJ8TPhDP4dvtZtoo7q1fJS
+Eo08mCPITJ/Tn5l4r8hPil/wRR/anm+L8mjeBdEjuUiaN21GO/WFFhZuHO8AjCtksoK4BPtX888E
+4bgviDMcb/rLUUJJ+6pSaSeqerte2ll57H82cU186w9CP1KmpPm95WTdla3T8eltz9jfhh40+Fn7
+aHwpPxL1DRbWK71q0lt9E1mO13zRyB125IySqFFUnHCbgCMmviP9rT/giZ4h/af+P0fjX4J+LND8
+PWx11dO8deJtajkh06TgkXsKAbpbgKuGiGPM+Ri0fLt9MfsO/s4eI/2M/wBn3TfAureK49Qv7CV5
+7u8hgeW1jllywUpkN5eCMSjcGP1Ar0j4N6f4jA1jUtavrqS3nvFj0+2kmLIoUFnlUEn7zS4z1+U+
+teLkPGOJ8PsTjsXl1R1cPGTjTve0ruy36JK55OZ5Dh84wsKdbS6TaWvK7a2fS3rbyPeP+Cfv/BPj
+9mn9gP4KjwX+z5pcWozXyRv4l8YXTpLqGvzrnDzSLwkSnPl26kRx5JALFpG6n4v/ABOWyhbSdCtG
+ZEcpPcPxCcDmJD/y0cjrjhRyTXjek3mpaTdr/Z1/PaO7YleGQoSvVs46jGetdhpHiInW7TxB4otG
+1JbWMJ9gmuPLhCjHG1Rgbe+BySAcnmvvcn+kFHNqXs69J0pXSlJu683orq3ax8rU4Khl1Tn5vaR6
+JKz8t9H66Hx3p/8AwQX8e/tE+If+FzfGf9sLWbm7e782zv7zwxGZ5U8wtmNBOFhRf4QBtJJIAAGf
+0HXxt8BvDajw7/wnvhK2+wD7N9nudXi8yLZ8ux8vncMYOe4rH+MX7RtzceAL2Hwjo8mmTXNs9vJc
+O+57cMhBMW3ADKMEMfusR8pxkfln/wAOvrX+Px9q9we9w2jx5lP94/N1PX8a/cct4nyXF4KNXDy9
+pfeSvqfSYRYjieFs+xrw0aVlSjGC2sr3s12WrvfXY+GYfiV8X9d+JurfGnxvfavrOo6nqDXeqanI
+jtIJjk5BxhVHRVGAoUAAAAV+mH/BJzUdf/aA8DyfGnxTYxjT7HUZ7WzuZE2LcvGQTIAeMKpwx4UM
+Gx0OPqn4jf8ABNf9kzxx4otvFXjX4axW2oNIbi9sNFupLOC+AyR9qihIV/mcuSoVyerEfKfNv2s9
+Y134czWfwN8KeDbXwv4QTT4l0+HSbZYYL+JVGYUEYCxQxn5TCPQE8FRVcQYyHDmXyxlZOSVkkure
+13bRd2fcYvizKvELB4bIsoj7PrJySXKtLqLTu772sjK/at/anvfEdq/w9+GF35OiSbodS1i2O1r/
+AKgxxHtER1PWQHsv3vALVri0T7bbwfIQYnR1yjoRhlYf3SP6YwcV0jpBPC1tNB5kbcOh4/EHsfQ1
+zup2d7pMhgeR2ik+ZJBwHx6j1Gen/wBav5dz3PszzvMfrNaevRLRJdEkfsvDPD+U5Dln1GjBLu3q
+5d2z0n4M6yl9rek2tteXM32GY/ZYbyfd5WVPmRSMcAZBYrIeGHPUMB7/AKnplhFdxahr/jHT7WSz
+04J9ne9QIzOxLDdnHC4TAPT8K8X/AGRP2eNZ+JHjKx8TeIbVo/D63SC8t2LL9vh3AyLlcFBgZDAh
+gwDqQQDX6G+Evg38K/ALJ/wiHw40SxkTCpcQ2EZn9v3zgufxav0vh7wrwfGGCjjcxpOnJpq6bTkn
+qna2931P518SOKsv4ezl4bAz57ejSfVN31t6Hy9othFNYvH4U0TX/FDfZVjmXR9HmuILhepAdV2A
+MeQN2Bn2zRol9p91YR3OlXELRqfvWzq6pJnLJkZGQ2QRX2RJLcF90zuxXpvbOK+R/iJ4AtfA3ibx
+YdNspIza+ILi5CwkR+Yk5FxH0HTEoGcHoevffjbwIweKyWnhcsqezUW21a6k7WTbvfT9T4PJeOKu
+Jxkvbwvdd/8Ahl2JdKi+03Lzt134z0z3P04BHtmtgy7W4XBGMY/TA/PHpyxr83PgV/wWE+M+p/tC
+N8Afi78LNG0zVJten0yG0tkkkjgmWUr5DsjbsgqAZfmUlQdqgnH6XfCfwb4s+K9rbXVpoi20TNCL
+8fawwgR2G4gkLuIBLEAZOMYHSvwmXhHxhlVb2EaPtLveLve/W356H3ObYyjl6UsU1HS6u1a3yf4G
+h8OfBOn/ABOv5tN8SWjRaHYT/vZ0bIu5eCYsfeVBwCw67TxyTXvlhollaWMNrY6TpnkRQqkOyJcb
+AABj2xWHqnwC+FY8Rr4ptNJlsL1P9ZNpt/NB52CPlYRsN4PfufXNdG2oaJAxgEtrhDtH71e341/Z
+nBnCseHMmhhKkYuSSu2r/wDDH45m+dxzDE+0pqVu3b8T5e+CHiv4keJNNsvGvxQuIy2rKXSKG3Ks
+E25HBz2GfpnHTm/8frPwf8T/AAi/gO/tPNYyK0V55f721nHCmL/b5wR3yUwcnHU+M/if8O/hlaGT
+xh4is9Ni2DyY5LlUZ+o+UDk9+g6jn2w/hh8Tfhz8VdY/tfwN9nvr4ttmaFMyKcEMeemQeT6Dnivb
+zTL6eZYR4VyVpaSvq2utvM3yzG4zKcYsf7Nx5XeNtEmtteyPib4j/DnxT8KPE03hjxjZtDMqCWG4
+BBiuYT0lQ9COoPPykEHpXR/Cz4KXnjCIeKfGkf8AZ/h+FTM0tz8nmhRktk4CIB1c4GPavZP+Cgv7
+Zf7K/wCx/qXhTQ/2h/DkviTxHeGe+0K00+zhm/s5Fygll82VAFdiQOGDNCxwPLUj508KftmR/wDB
+Su78cfsyfDvWLbS7y88B6mYYbxGijmilhNsuGBGMSTRbsZAUnk81+XYDwzyvLc4lWqT54p+7Frbr
+q+tuiP6EnxnxLnXDVPEexdOnKynV6WvZtLdX6s9D8Hf8FbP2KfCfiHT/AIc+GPGkiW9xL9ntvEMu
+nSQaZkDAzNJjYpORvYBeMkgYJ/QzwnfSeLfDWn69b+UY7y0inBZ/vbkB4wDx+NfzNfC39kL9ov4g
+eMx+zfpXw010a/FrIs7+1uNOZRpe59hmmfGIo0zuMh+UDmv6R/2W/BCfDT4H+HPhjZ3jz2vhnS4d
+KsJZpd8jW0EapFuOTltoGT3PNfr2T1G4uNtEfl3i/wAM5FkMsLVwNVynVjzSTak1trdd2duug72/
+eXjerCNAv891eKftC+F7yLxtqFnHZebZ6loNvcPNnDNNEzxMM4xgKqH246ZzXuGr+IfD/hqD7T4k
+1+x0+PgebfXkcIJJwB85HUkAeua4b4kfEnwPqsC6Ho+tRXd1JuhYwwuyxocZ+YgKeQBgEnvg4r1a
+3JVhZn43h5VKNWMkflb+0vqP7JH7H3xDvv2hJvhZpMvxW15JotDluoZ7rzZ/KCNL5PmCOMchGlQL
+IxDAMd0hH6EfsT/tMWHx3/Zo8M/Fnw74bg0uG7tyup6eJSqWd3E+y5HmnO9AyMwYnOzbnB4Hhv7U
+3/BJL4cftwX+mfE21+J1x4P1rQN1va6zFYC8hu4myzLJAzw52szEOHBG4gg/w9n4D8E+Bf2c/gho
+P7N/gjXrjVtK8NCRr2/uIxEdSupJ3neRlBwqeZIxEWSBhQSxG4+PRp1KOIcuW0beWr/P8D9dz7Hc
+J5jwZQp0qk545TXM2nZQtqrvR2aVknc8m/4KHf8ABbyf9nD4ra78Afhl4Es7+606wtjN4juNU+Xz
+bi3S4AjgRDwscyDczjLZ4wAW+Fpf+CxnxKupWubzSHeaRi0rG+6seSenrX3Z8V/2Afhf+1r8Xj4+
+0jwnZQ+KrrTY7a7u9R0+K5sp4I12JLcxsN2VQCNZEYNgIMPhRXiV9/wbefEC6vZrm0+Jnhe1iklZ
+orZLm7kESk5CBja5YAcZPJxmuWrTzGvVco7dD9U4TzDwgwmRUKWIpwVZRXO5Kcm5dXdXVm+isfBH
+gr4zfFLxd+1pr/jjxN42vb3Vta115dTvp3BeYkFcdMKoUBVRcKgVQoAUAfuh+wZoGi+Ff2crTxho
+OmQwapqcEs99fFN8kzqi7cls/KMDCj5R6UUVOV61/l/keL4w0qVPh3BcsUtGtF5n5u/8F/fD+k6z
++1T4b1vVLdp7q48E2wmleZ/mC3l2BxnAwOOKtf8ABv8AfDbwQ/x4+J/jKTQUbU9G8P2Ntpl08rkw
+RXEk5mUAtg7jBFyQSNnGMnJRWbS/tD5n0eNil4J05215Fr1P1OjmlniMEzl41IxG3KjGe3Sr9prO
+q27ixt9Rmjhfloo5Cqnp2FFFe/R0R/K+KlKfxO5y3iXQtK8S+NdL0PWrYzW13buLhPMZS+1yw+ZS
+GGDzwa6H4i6bY2wSS2tUjZTGimMbcKy4I49RRRXmYBv6zW9V+R1Y1JUKHo/zPkb/AIKjftdftD/A
+v9pfwp8FfhR8Qzo/hnUtAjkvNMi0u0k3sZp4ziSSJpF+VFGFYDIz1JJ3P2V/F3iLxn8HtI8XeJdT
+a51HUrKO5vbny1QySbF5wgAUf7IAHtRRWtRv638/8j73PcNh6PB2BqU4JSk3dpJN+r6n2L8CdK06
+y+H1ve2lmkct7cz/AGt0GDLs3Bc/Tt6V+H/xI/4Kwf8ABQyw+Imv2Fj+03q8MEGtXUcMMWn2arGg
+mYBQBDgAAYAFFFa4mUo0oWff9Dm8PsPh8RLEurBSty2uk+/c/9lQSwECLQAUAAYACAAAACEA9L5j
+XQ4BAAAaAgAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQItABQABgAI
+AAAAIQAIwxik1AAAAJMBAAALAAAAAAAAAAAAAAAAAD8BAABfcmVscy8ucmVsc1BLAQItABQABgAI
+AAAAIQAhkhUFRQIAAIEFAAASAAAAAAAAAAAAAAAAADwCAABkcnMvcGljdHVyZXhtbC54bWxQSwEC
+LQAUAAYACAAAACEAWGCzG7oAAAAiAQAAHQAAAAAAAAAAAAAAAACxBAAAZHJzL19yZWxzL3BpY3R1
+cmV4bWwueG1sLnJlbHNQSwECLQAUAAYACAAAACEADF+KKxQBAACMAQAADwAAAAAAAAAAAAAAAACm
+BQAAZHJzL2Rvd25yZXYueG1sUEsBAi0ACgAAAAAAAAAhAHicxxiPGwAAjxsAABUAAAAAAAAAAAAA
+AAAA5wYAAGRycy9tZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAACpIgAAAAA=
+">
+   <v:imagedata src="image053.png" o:title=""/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:CF>Bitmap</x:CF>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:5;margin-left:18px;margin-top:6px;width:91px;
+  height:85px'><img width=91 height=85 src=image054.gif v:shapes="图片_x0020_2"></span><![endif]><span
+  style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td height=29 class=xl672 width=115 style='height:21.75pt;width:86pt'>　</td>
+   </tr>
+  </table>
+  </span></td>
+  <td class=xl650 style='border-top:none'>西数新元素2T</td>
+  <td class=xl651 style='border-top:none'>465 </td>
+  <td class=xl774 align=left width=173 style='border-top:none;border-left:none;
+  width:130pt'>2.5“移动硬盘</td>
+  <td class=xl416>　</td>
+  <td class=xl418 width=187 style='border-top:none;width:140pt'>三星970EVO-250G
+  M.2</td>
+  <td class=xl419 width=57 style='border-top:none;border-left:none;width:43pt'>490
+  </td>
+  <td rowspan=3 class=xl1552 style='border-bottom:1.5pt solid white'>970EVO
+  M.2,NVME</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R5 2600</td>
+  <td class=xl407 width=68 style='border-top:none;border-left:none;width:51pt'>1040
+  </td>
+  <td class=xl758 width=212 style='border-top:none;border-left:none;width:159pt'>6C12T3.4-3.9G/16M/65W</td>
+  <td class=xl616 style='border-left:none'>芝奇</td>
+  <td class=xl800 style='border-top:none'>芝奇幻光戟16G3200*2 14D</td>
+  <td class=xl974 style='border-top:none;border-left:none'>　</td>
+  <td class=xl673>　</td>
+  <td class=xl674 style='border-top:none'>西数Passport1T 黑</td>
+  <td class=xl675 style='border-top:none'>325 </td>
+  <td class=xl775 align=left style='border-top:none;border-left:none'>强烈推荐：</td>
+  <td class=xl420 width=113 style='width:85pt'>三星</td>
+  <td class=xl418 width=187 style='border-top:none;width:140pt'>三星970EVO-500G
+  M.2</td>
+  <td class=xl419 width=57 style='border-top:none;border-left:none;width:43pt'>880
+  </td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl316 style='height:21.75pt'>　</td>
+  <td class=xl752 width=175 style='width:131pt'>·</td>
+  <td class=xl697 width=109 style='border-top:none;width:82pt'>R5 2600X</td>
+  <td class=xl417 width=68 style='border-top:none;border-left:none;width:51pt'>1480订</td>
+  <td class=xl758 width=212 style='border-top:none;border-left:none;width:159pt'>6C12T3.6-4.2G/16M/65W</td>
+  <td class=xl616 style='border-left:none'>可订货</td>
+  <td class=xl801 style='border-top:none'>芝奇皇家戟8G3000*2 16D</td>
+  <td class=xl975 style='border-top:none;border-left:none'>　</td>
+  <td class=xl673>　</td>
+  <td class=xl366 style='border-top:none;border-left:none'>西数Passport1T彩</td>
+  <td class=xl367 style='border-top:none;border-left:none'>325 </td>
+  <td class=xl776 align=left style='border-left:none'>My Passport 硬件加密</td>
+  <td class=xl416>　</td>
+  <td class=xl418 width=187 style='border-top:none;width:140pt'>三星970EVO-1T M.2</td>
+  <td class=xl419 width=57 style='border-top:none;border-left:none;width:43pt'>订</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl316 style='height:18.0pt'>　</td>
+  <td class=xl752 width=175 style='border-top:none;width:131pt'>散片一年保</td>
+  <td class=xl693 width=109 style='border-top:none;width:82pt'>R7 2700X</td>
+  <td class=xl407 width=68 style='border-top:none;border-left:none;width:51pt'>2270订</td>
+  <td class=xl758 width=212 style='border-top:none;border-left:none;width:159pt'>8C16T3.7-4.3G/AM4/105W</td>
+  <td class=xl616 style='border-left:none'>　</td>
+  <td class=xl801 style='border-top:none'>芝奇皇家戟8G3200*2 16D</td>
+  <td class=xl975 style='border-top:none;border-left:none'>　</td>
+  <td class=xl673>　</td>
+  <td class=xl674 style='border-top:none'>西数Passport2T</td>
+  <td class=xl675 style='border-top:none'>470 </td>
+  <td class=xl776 align=left style='border-left:none'>6色时尚炫彩</td>
+  <td class=xl416>　</td>
+  <td class=xl381 style='border-top:none'>三星T5-250G移动固态</td>
+  <td class=xl382 style='border-top:none;border-left:none'>订</td>
+  <td rowspan=2 class=xl1555 width=153 style='border-bottom:1.5pt solid #003399;
+  width:115pt'>蓝色金属外壳，硬件加密</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl316 style='height:18.0pt'>　</td>
+  <td class=xl687 width=175 style='width:131pt'>　</td>
+  <td class=xl696 width=109 style='border-top:none;width:82pt'>FX-8300八核</td>
+  <td class=xl421 width=68 style='border-top:none;border-left:none;width:51pt'>550
+  </td>
+  <td colspan=2 class=xl1564 width=130 style='border-right:1.5pt solid white;
+  border-left:none;width:98pt'>适用A78+D3</td>
+  <td class=xl759 width=212 style='border-top:none;border-left:none;width:159pt'>8C3.3G/16M/D3/大风扇</td>
+  <td class=xl619 style='border-left:none'>　</td>
+  <td class=xl802 style='border-top:none'>芝奇幻光戟8G3600*2 18D</td>
+  <td class=xl976 style='border-top:none;border-left:none'>　</td>
+  <td class=xl373>3年质保</td>
+  <td class=xl388 style='border-top:none'>西数Passport4T</td>
+  <td class=xl389 style='border-top:none;border-left:none'>740 </td>
+  <td class=xl777 align=left style='border-left:none'>比新元素返修率低，价差小</td>
+  <td class=xl422 width=113 style='width:85pt'>　</td>
+  <td class=xl423 width=187 style='border-top:none;width:140pt'>三星T5-500G移动固态</td>
+  <td class=xl424 width=57 style='border-top:none;border-left:none;width:43pt'>780订</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl316 style='height:18.0pt'>　</td>
+  <td colspan=3 class=xl365 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl425 style='mso-ignore:colspan'></td>
+  <td class=xl365></td>
+  <td class=xl430></td>
+  <td colspan=2 class=xl431 style='mso-ignore:colspan'></td>
+  <td colspan=11 class=xl365 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=186 style='width:140pt'></td>
+  <td width=175 style='width:131pt'></td>
+  <td width=109 style='width:82pt'></td>
+  <td width=68 style='width:51pt'></td>
+  <td width=65 style='width:49pt'></td>
+  <td width=65 style='width:49pt'></td>
+  <td width=212 style='width:159pt'></td>
+  <td width=127 style='width:95pt'></td>
+  <td width=217 style='width:163pt'></td>
+  <td width=57 style='width:43pt'></td>
+  <td width=115 style='width:86pt'></td>
+  <td width=130 style='width:98pt'></td>
+  <td width=58 style='width:44pt'></td>
+  <td width=173 style='width:130pt'></td>
+  <td width=113 style='width:85pt'></td>
+  <td width=187 style='width:140pt'></td>
+  <td width=57 style='width:43pt'></td>
+  <td width=153 style='width:115pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=72 style='width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
