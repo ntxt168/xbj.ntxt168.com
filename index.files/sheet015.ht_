@@ -1,0 +1,628 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link id=Main-File rel=Main-File href="../index.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:0in .08in .04in .24in;
+	mso-header-margin:.12in;
+	mso-footer-margin:0in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(14);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../index.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=red vlink="#954F72" class=xl1423>
+
+<table border=0 cellpadding=0 cellspacing=0 width=1125 style='border-collapse:
+ collapse;table-layout:fixed;width:845pt'>
+ <col class=xl1161 width=188 style='mso-width-source:userset;mso-width-alt:
+ 6016;width:141pt'>
+ <col class=xl1423 width=151 style='mso-width-source:userset;mso-width-alt:
+ 4832;width:113pt'>
+ <col class=xl1423 width=69 style='mso-width-source:userset;mso-width-alt:2208;
+ width:52pt'>
+ <col class=xl1437 width=108 style='mso-width-source:userset;mso-width-alt:
+ 3456;width:81pt'>
+ <col class=xl1437 width=55 style='mso-width-source:userset;mso-width-alt:1760;
+ width:41pt'>
+ <col class=xl1438 width=167 style='mso-width-source:userset;mso-width-alt:
+ 5344;width:125pt'>
+ <col class=xl1439 width=102 style='mso-width-source:userset;mso-width-alt:
+ 3264;width:77pt'>
+ <col class=xl1439 width=50 style='mso-width-source:userset;mso-width-alt:1600;
+ width:38pt'>
+ <col class=xl1437 width=50 style='mso-width-source:userset;mso-width-alt:1600;
+ width:38pt'>
+ <col class=xl1437 width=185 style='mso-width-source:userset;mso-width-alt:
+ 5920;width:139pt'>
+ <tr height=74 style='mso-height-source:userset;height:56.1pt'>
+  <td height=74 class=xl1064 width=188 style='height:56.1pt;width:141pt'><a
+  name="RANGE!A1" href="sheet003.htm#RANGE!A1"><span style='color:yellow;
+  font-size:16.0pt;text-decoration:underline;text-underline-style:single;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>点击报价链接</span></a></td>
+  <td colspan=9 class=xl1763 width=937 style='border-right:1.5pt solid white;
+  width:704pt'>群晖NAS 网络存储</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1068 style='height:41.45pt'><a href="#RANGE!A1"><span
+  style='color:white;font-size:16.0pt;font-family:微软雅黑, sans-serif;mso-font-charset:
+  134'>公司信息/促销</span></a></td>
+  <td colspan=9 class=xl1754 style='border-right:1.5pt solid white;border-left:
+  none'>以下NAS产品均为空巢销售<font class="font84">（不含硬盘）</font><font class="font86">，如需加载含税硬盘，请电询型号价格交货期：
+  13301485956</font></td>
+ </tr>
+ <tr class=xl1426 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1068 style='height:41.45pt'><a
+  href="sheet003.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>三大件</span></a></td>
+  <td class=xl1425 width=151 style='border-top:none;border-left:none;
+  width:113pt'>型号</td>
+  <td class=xl1425 width=69 style='border-top:none;border-left:none;width:52pt'>含税价</td>
+  <td class=xl1425 width=108 style='border-top:none;border-left:none;
+  width:81pt'>盘位数</td>
+  <td class=xl1425 width=55 style='border-top:none;border-left:none;width:41pt'>保修（年）</td>
+  <td class=xl1425 width=167 style='border-top:none;border-left:none;
+  width:125pt'>CPU</td>
+  <td class=xl1425 width=102 style='border-top:none;border-left:none;
+  width:77pt'>内存</td>
+  <td class=xl1425 width=50 style='border-top:none;border-left:none;width:38pt'>内存插槽</td>
+  <td class=xl1425 width=50 style='border-top:none;border-left:none;width:38pt'>网络接口</td>
+  <td class=xl1425 width=185 style='border-top:none;border-left:none;
+  width:139pt'>扩展槽</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1097 style='height:41.45pt'><a
+  href="sheet006.htm#RANGE!A1"><span style='color:white;font-size:16.0pt'><font
+  class="font79">技嘉微星华擎主板</font></span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS218+</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>2480</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>2</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>2</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>intel 四核赛扬J3355</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2G DDR3L</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>1</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet004.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>优盘存储卡</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS718+</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>3550</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>2（可扩充至7盘位）</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>3</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>intel 四核赛扬J3455</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2G DDR3L</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>2</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1111 style='height:41.45pt'><a
+  href="sheet007.htm#RANGE!A1"><span style='color:white;font-size:14.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>技嘉/影驰/丽台显卡</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS418</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>3180</td>
+  <td rowspan=3 class=xl1757 width=108 style='border-bottom:1.5pt solid white;
+  border-top:none;width:81pt'>4</td>
+  <td rowspan=3 class=xl1760 width=55 style='border-bottom:1.5pt solid white;
+  border-top:none;width:41pt'>2</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>Realtek 四核RTD1296</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2G DDR4</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>　</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>2</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet008.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>显示器/电视机</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS418J</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>2500</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>Realtek 双核RTD1293</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>1G DDR4</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>　</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>1</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet005.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>INTEL迷你电脑</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS418PLAY</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>3650</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>intel 四核赛扬J3355</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2GDDR3L*1</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>2</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1097 style='height:41.45pt'><a
+  href="sheet010.htm#RANGE!A1"><span style='color:white;font-size:16.0pt'><font
+  class="font79">电源机箱</font></span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS918+4G</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>4300</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>4（可扩充至9盘位）</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>3</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>intel 四核赛扬J3455</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>4G DDR3L</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>2</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>底部2个M.2280 NVME的扩充槽</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1097 style='height:41.45pt'><a
+  href="sheet009.htm#RANGE!A1"><span style='color:white;font-size:16.0pt'><font
+  class="font79">键鼠外设</font></span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS1618+4G</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>7000</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>6（可扩充至16盘位）</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>3</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>INTEL 四核ATOMC3538</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>4GDDR4*1</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>4</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1068 style='height:41.45pt'><a
+  href="sheet013.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>海盗船</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS1819+4G</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>8700</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>8（可扩充至18盘位）</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>3</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>intel 四核atomC3538</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>4GDDR4*1</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>4</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>可选M2D18 M.2280 扩展卡</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet011.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>散热器光磁</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖DS3018XS</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>12000</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>6（可扩充至30盘位）</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>5</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>INTEL 奔腾D1508</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>8GDDR4*1</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>2</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>4</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>可选M2D18 M.2280 NVME SSD扩展卡</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet012.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>DELL笔记本PC</span></a></td>
+  <td class=xl1427 style='border-top:none;border-left:none'>群晖RS8161U 机架</td>
+  <td class=xl1428 style='border-top:none;border-left:none'>5300</td>
+  <td class=xl1429 width=108 style='border-top:none;border-left:none;
+  width:81pt'>4</td>
+  <td class=xl1430 width=55 style='border-top:none;border-left:none;width:41pt'>3</td>
+  <td class=xl1431 width=167 style='border-top:none;border-left:none;
+  width:125pt'>Marvell Armada 385 88F6820</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>1GDDR3L*1</td>
+  <td class=xl1432 style='border-top:none;border-left:none'>　</td>
+  <td class=xl1429 width=50 style='border-top:none;border-left:none;width:38pt'>2</td>
+  <td class=xl1433 width=185 style='border-top:none;border-left:none;
+  width:139pt'>　</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1068 style='height:41.45pt'><a href="#RANGE!A1"><span
+  style='color:white;font-size:16.0pt;font-family:微软雅黑, sans-serif;mso-font-charset:
+  134'>群晖NAS</span></a></td>
+  <td colspan=9 class=xl1752 style='border-left:none'>桌面式NAS三年质保，机架式NAS五年质保。硬盘推荐使用希捷企业级、NAS级，含税价电询。</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet016.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>打印机</span></a></td>
+  <td colspan=9 class=xl1752 style='border-left:none'>我司将提供选型、控标服务，并可提供有偿上门安装调试服务！</td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet014.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>大华监控</span></a></td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1099 style='height:41.45pt'><a
+  href="sheet017.htm#RANGE!A1"><span style='color:white;font-size:16.0pt;
+  font-family:微软雅黑, sans-serif;mso-font-charset:134'>质保条例</span></a></td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1161 style='height:41.45pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1161 style='height:41.45pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1161 style='height:41.45pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=55 style='mso-height-source:userset;height:41.45pt'>
+  <td height=55 class=xl1161 style='height:41.45pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='page-break-before:always;mso-height-source:
+  userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1424 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+  <td class=xl1435></td>
+  <td colspan=2 class=xl1436 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1434 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1424 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr class=xl1423 height=38 style='mso-height-source:userset;height:28.5pt'>
+  <td height=38 class=xl1161 style='height:28.5pt'>　</td>
+  <td colspan=2 class=xl1423 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+  <td class=xl1438></td>
+  <td colspan=2 class=xl1439 style='mso-ignore:colspan'></td>
+  <td colspan=2 class=xl1437 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=188 style='width:141pt'></td>
+  <td width=151 style='width:113pt'></td>
+  <td width=69 style='width:52pt'></td>
+  <td width=108 style='width:81pt'></td>
+  <td width=55 style='width:41pt'></td>
+  <td width=167 style='width:125pt'></td>
+  <td width=102 style='width:77pt'></td>
+  <td width=50 style='width:38pt'></td>
+  <td width=50 style='width:38pt'></td>
+  <td width=185 style='width:139pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
