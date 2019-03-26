@@ -147,7 +147,7 @@ else
    </v:formulas>
    <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
    <o:lock v:ext="edit" aspectratio="t"/>
-  </v:shapetype><v:shape id="_x0000_s7176" type="#_x0000_t75" style='position:absolute;
+  </v:shapetype><v:shape id="_x0000_s7195" type="#_x0000_t75" style='position:absolute;
    margin-left:9pt;margin-top:8.25pt;width:177pt;height:94.5pt;z-index:8;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -377,7 +377,7 @@ AADaLQAAAAA=
    </tr>
    <tr>
     <td></td>
-    <td><img width=236 height=126 src=image164.gif v:shapes="_x0000_s7176"></td>
+    <td><img width=236 height=126 src=image164.gif v:shapes="_x0000_s7195"></td>
     <td width=7></td>
    </tr>
    <tr>
@@ -392,7 +392,7 @@ AADaLQAAAAA=
   <td class=xl1286 width=221 style='border-left:none;width:166pt'>产品规格及卖点</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_42" o:spid="_x0000_s7184" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_42" o:spid="_x0000_s7203" type="#_x0000_t75" style='position:absolute;
    margin-left:29.25pt;margin-top:3pt;width:129.75pt;height:111pt;z-index:16;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -772,7 +772,7 @@ Z2UxLmpwZWdQSwUGAAAAAAYABgCFAQAAEzsAAAAA
   <td class=xl1198 width=49 style='border-top:none;border-left:none;width:37pt'>缺货</td>
   <td class=xl1303 width=243 style='border-top:none;border-left:none;
   width:182pt'>TN/低亮/1V/1D超低功耗/Full HD</td>
-  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_1" o:spid="_x0000_s7175"
+  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_1" o:spid="_x0000_s7194"
    type="#_x0000_t75" style='position:absolute;margin-left:180pt;margin-top:78.75pt;
    width:87pt;height:44.25pt;z-index:7;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQBamK3CDAEAABgCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralM4IITW7kDhCBMaDxAlbhvROFGcle3tSdZNgokh7Rjb3+8vyWK5tSObIJBxWPPbsuIM
@@ -1394,7 +1394,7 @@ ZWRpYS9pbWFnZTEucG5nUEsFBgAAAAAGAAYAhAEAAM+GAAAAAA==
     <x:CF>Bitmap</x:CF>
     <x:AutoPict/>
    </x:ClientData>
-  </v:shape><v:shape id="图片_x0020_2" o:spid="_x0000_s7177" type="#_x0000_t75"
+  </v:shape><v:shape id="图片_x0020_2" o:spid="_x0000_s7196" type="#_x0000_t75"
    style='position:absolute;margin-left:6.75pt;margin-top:6pt;width:180.75pt;
    height:99pt;z-index:9;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -1636,7 +1636,7 @@ YWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAPEtAAAAAA==
   width:166pt'>IPS曲面</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_77" o:spid="_x0000_s7185" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_77" o:spid="_x0000_s7204" type="#_x0000_t75" style='position:absolute;
    margin-left:18pt;margin-top:7.5pt;width:154.5pt;height:109.5pt;z-index:17;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -2033,7 +2033,7 @@ cy9tZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAAA8PgAAAAA=
   width:182pt'>AH-IPS/窄边框/<font class="font119">1VGA/1DVI</font><font
   class="font36">/插墙式电源</font></td>
   <td width=255 style='width:191pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_3" o:spid="_x0000_s7178" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_3" o:spid="_x0000_s7197" type="#_x0000_t75" style='position:absolute;
    margin-left:6.75pt;margin-top:11.25pt;width:180pt;height:99.75pt;z-index:10;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -2283,7 +2283,7 @@ LwAAAAA=
   width:166pt'>21.5 IPS VGA+DVI 1920*1080</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_4" o:spid="_x0000_s7179" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_4" o:spid="_x0000_s7198" type="#_x0000_t75" style='position:absolute;
    margin-left:9.75pt;margin-top:4.5pt;width:169.5pt;height:101.25pt;z-index:11;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -2651,7 +2651,7 @@ AAAGAAYAhQEAAJI4AAAAAA==
   <td class=xl1172 width=49 style='border-top:none;border-left:none;width:37pt'>现货</td>
   <td class=xl1303 width=243 style='border-top:none;border-left:none;
   width:182pt'>IPS/1VGA/1DVI/窄边框/不闪屏/广视角</td>
-  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_5" o:spid="_x0000_s7169"
+  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_5" o:spid="_x0000_s7188"
    type="#_x0000_t75" style='position:absolute;margin-left:4.5pt;margin-top:8.25pt;
    width:183pt;height:98.25pt;z-index:1;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -2893,7 +2893,7 @@ cnMvbWVkaWEvaW1hZ2UxLmpwZWdQSwUGAAAAAAYABgCFAQAAii0AAAAA
   1920*1080</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_20" o:spid="_x0000_s7186" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_20" o:spid="_x0000_s7205" type="#_x0000_t75" style='position:absolute;
    margin-left:8.25pt;margin-top:9pt;width:172.5pt;height:108pt;z-index:18;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -3115,7 +3115,7 @@ AADDBgAAZHJzL21lZGlhL2ltYWdlMS5qcGVnUEsFBgAAAAAGAAYAhQEAAIcZAAAAAA==
   <td class=xl1303 width=243 style='border-top:none;border-left:none;
   width:182pt'>1800R曲面<font class="font119">/1VGA/1DVI</font><font
   class="font36">/金属底座/不闪屏/内置电源</font></td>
-  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_6" o:spid="_x0000_s7170"
+  <td align=left valign=top><!--[if gte vml 1]><v:shape id="图片_x0020_6" o:spid="_x0000_s7189"
    type="#_x0000_t75" style='position:absolute;margin-left:6pt;margin-top:12.75pt;
    width:183pt;height:105pt;z-index:2;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -3395,7 +3395,7 @@ YS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAAAyNgAAAAA=
   width:166pt'>21.5宽 16:9<span style='mso-spacerun:yes'>  </span>VGA</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_39" o:spid="_x0000_s7182" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_39" o:spid="_x0000_s7201" type="#_x0000_t75" style='position:absolute;
    margin-left:12pt;margin-top:14.25pt;width:172.5pt;height:96.75pt;z-index:14;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -3727,7 +3727,7 @@ AAAAAAAAAAAAAOYGAABkcnMvbWVkaWEvaW1hZ2UxLmpwZWdQSwUGAAAAAAYABgCFAQAAmzEAAAAA
   <td class=xl1303 width=243 style='border-top:none;border-left:none;
   width:182pt'>广色域好色/<font class="font119">VGA/HDMI/曲面</font></td>
   <td width=255 style='width:191pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_7" o:spid="_x0000_s7171" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_7" o:spid="_x0000_s7190" type="#_x0000_t75" style='position:absolute;
    margin-left:2.25pt;margin-top:6.75pt;width:185.25pt;height:102.75pt;
    z-index:3;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -4034,7 +4034,7 @@ MS5qcGVnUEsFBgAAAAAGAAYAhQEAAC48AAAAAA==
   </span>窄边VGA+HDMI+DP</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_11" o:spid="_x0000_s7187" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_11" o:spid="_x0000_s7206" type="#_x0000_t75" style='position:absolute;
    margin-left:14.25pt;margin-top:3pt;width:166.5pt;height:106.5pt;z-index:19;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -4479,7 +4479,7 @@ AGRycy9tZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAADwSgAAAAA=
   width:182pt'>曲翼/1800R/金属底座/1VGA/1DVI/不闪屏/黑色</td>
   <td rowspan=3 height=156 class=xl1309 width=255 style='mso-ignore:colspan-rowspan;
   height:117.0pt;border-top:none;border-left:none;width:191pt'><!--[if gte vml 1]><v:shape
-   id="图片_x0020_9" o:spid="_x0000_s7173" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_9" o:spid="_x0000_s7192" type="#_x0000_t75" style='position:absolute;
    margin-left:14.25pt;margin-top:.75pt;width:164.25pt;height:111.75pt;
    z-index:5;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQBamK3CDAEAABgCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralM4IITW7kDhCBMaDxAlbhvROFGcle3tSdZNgokh7Rjb3+8vyWK5tSObIJBxWPPbsuIM
@@ -5249,7 +5249,7 @@ SwUGAAAAAAYABgCEAQAAeKMAAAAA
   style='mso-spacerun:yes'>  </span>专业显示器</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_41" o:spid="_x0000_s7183" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_41" o:spid="_x0000_s7202" type="#_x0000_t75" style='position:absolute;
    margin-left:9.75pt;margin-top:11.25pt;width:173.25pt;height:96.75pt;
    z-index:15;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -5600,7 +5600,7 @@ ZWdQSwUGAAAAAAYABgCFAQAAXzQAAAAA
   class="font129">2K</font></td>
   <td rowspan=3 height=156 class=xl1309 width=255 style='mso-ignore:colspan-rowspan;
   height:117.0pt;border-top:none;border-left:none;width:191pt'><!--[if gte vml 1]><v:shape
-   id="图片_x0020_15" o:spid="_x0000_s7174" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_15" o:spid="_x0000_s7193" type="#_x0000_t75" style='position:absolute;
    margin-left:12pt;margin-top:12pt;width:174pt;height:102pt;z-index:6;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQBamK3CDAEAABgCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRwU7DMAyG
 70i8Q5QralM4IITW7kDhCBMaDxAlbhvROFGcle3tSdZNgokh7Rjb3+8vyWK5tSObIJBxWPPbsuIM
@@ -6477,7 +6477,7 @@ AAYAhAEAACa6AAAAAA==
   width:166pt'>IPS/16:10/1920*1200/支持HDCP/升降旋转底座/1D1H1DP3USB/遮光罩/5年保</td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_8" o:spid="_x0000_s7180" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_8" o:spid="_x0000_s7199" type="#_x0000_t75" style='position:absolute;
    margin-left:11.25pt;margin-top:2.25pt;width:168pt;height:108.75pt;z-index:12;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -6790,7 +6790,7 @@ AAAAAAAA6AYAAGRycy9tZWRpYS9pbWFnZTEuanBlZ1BLBQYAAAAABgAGAIUBAABcLQAAAAA=
   width:182pt'>1800R/144Hz/2K/游戏优化/1V1D1H1DP/不闪屏/外置电源</td>
   <td rowspan=3 height=156 class=xl1309 width=255 style='mso-ignore:colspan-rowspan;
   height:117.0pt;border-top:none;border-left:none;width:191pt'><!--[if gte vml 1]><v:shape
-   id="图片_x0020_14" o:spid="_x0000_s7172" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_14" o:spid="_x0000_s7191" type="#_x0000_t75" style='position:absolute;
    margin-left:9pt;margin-top:10.5pt;width:178.5pt;height:104.25pt;z-index:4;
    visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
@@ -7059,7 +7059,7 @@ AABOMgAAAAA=
   class="font130">/USB3*4/ 1H1DP1MDP/8bit</font></td>
   <td rowspan=3 height=156 width=253 style='border-bottom:1.5pt solid white;
   height:117.0pt;width:190pt' align=left valign=top><!--[if gte vml 1]><v:shape
-   id="图片_x0020_38" o:spid="_x0000_s7181" type="#_x0000_t75" style='position:absolute;
+   id="图片_x0020_38" o:spid="_x0000_s7200" type="#_x0000_t75" style='position:absolute;
    margin-left:14.25pt;margin-top:4.5pt;width:168.75pt;height:111.75pt;
    z-index:13;visibility:visible' o:gfxdata="UEsDBBQABgAIAAAAIQD0vmNdDgEAABoCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF
 90jcwfIWJQ4sEEJJuiCwhAqVA1j2JDHEY8vjhvb2OEkrQVWQWNoz7//npFzt7MBGCGQcVvw6LzgD
